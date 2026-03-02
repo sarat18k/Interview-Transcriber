@@ -1,0 +1,1775 @@
+timestamp,filename,analysis_type,transcript,analysis,prompt_used
+2025-08-12T14:23:52.604241,Data Analyst Freshers Mock Interview Learn Data Analytics from Talentele dataanalytics.mp3,Skill Summary,"A: Here we go. Hey. Hi Ashish, how are you?
+
+B: I'm good sir. What about you?
+
+A: Yes, I'm also doing great, thank you for asking. Ashish. So as I can see your profile, you have applied for the position of data analyst as a fresher. Okay. So Ashish, can you please walk me through your profile once?
+
+B: Sure sir. First of all, thank you for giving me this opportunity. From Dehradun, I have completed my graduation Bachelors of Commerce. I have three years of work experience in social media marketing. Regarding my current skills, I am proficient in SQL, Power bi, Dax, Advanced Excel and I have created many projects using these tools on my own. Actually they are not guided projects. Also like recently I have worked on supply chain analysis. On that project I have solved a business problem and I created a beautiful dashboard on Power bi. Apart from this, currently I am learning Python for Autumn for automating tasks and I'm learning some libraries which are used for data analysis. This is, that's all about. Okay, okay.
+
+A: So Ashish, while you were working with this, all these data sets and all. Okay, so at that time what, you know, what challenges did you face using last data set? I mean how did you approach it and what was the outcome? You said that you were working on multiple projects, right?
+
+B: Yes.
+
+A: So what challenges did you face while using large data sets?
+
+B: Actually the most challenging part is only the clean part. Okay. When we have to deal with some null values, missing values, we have to remove some columns. So we have to think like very deeply which column is required for our analysis and which column are not. So the cleaning part is most challenging in my previous project, sir.
+
+A: Okay. Okay. So. So Ashish, tell me, I mean how did you prioritize your work when you were working with multiple projects and competing red lines? So can you, can you just give me a real time example? How did you do that?
+
+B: Yes sir, I prioritize my work, I prioritize my workload to maintain a sustainable balance. Like whatever I think it is most important. Okay. There, then I will do, I will complete that task first, then I will move to my next task. Okay. I will basically I will divide a big task into subsets of. Okay.
+
+A: Okay.
+
+B: Yes. So like I, whatever I have to do first I will complete that task, then I will move to my next task. That's how I can manage. Okay.
+
+A: Okay. Well, well Ashish, so as you were associated with multiple projects, so how did you, you know, analyze, ensure that the data you analyze is used ethically, especially when you're dealing with sensitive information.
+
+B: I can put some restriction to my Data okay. That the industry people can see whatever is going on with this data. Okay. And I will put some restrictions so the other person cannot see the data and whatever I'm doing with the data.
+
+A: So as tell me, how would you rate yourself on a scale of 10 when it comes to Excel?
+
+B: I would give seven.
+
+A: So, seven. Okay, so let's get started.
+
+B: Sure, sir.
+
+A: Okay, so Ashish, tell me the purpose of Excel data model and how you can enable it.
+
+B: Okay, sir, suppose I have a data, okay. In my Excel file I have multiple tables. What I can do, I can just create a pivot table and on the pivot table there's an option add this data to a data model. Okay? Then my data will be stored in power pivot. Okay? And in power period, I can do the data modeling. I can connect all the dimension table to the effect table and basically I will do, I can do anything, whatever I'm doing in power bi. Okay, I can connect all the tables and dimension table and fact table and that's how I can enable power pivot in Excel and I can do the modeling part in Excel with the help of power pivot.
+
+A: So as you were associated with multiple projects, Ashish, can you tell me, have you come across the, you know the term or the function called concat and text join in Excel? May I know what it's used?
+
+B: It is basically, you know, combine two or more strings in a cell. We, we can use concat to combine two string in one cell.
+
+A: Okay. Okay.
+
+B: And the text join is basically text join do the same work as concat. Okay. And text join we can put a separator. Okay. Like we have to combine with. We have to combine this text using a separator. So we can mention the separator it is comma or space. That's how we can use concat and text join. Also what we can do the. There is one more option. We can just write equal to our cell. Then we can refer to a cell. Then we have to put and, and, and, and sign. Then after, after end we can put another cell. Also we can join a space. If you join a space. So we can put some inverted comma. That's how we can basically concat is used to combine two or more string.
+
+A: Got you, got you. Okay, so tell me Ashish, how would you create a dynamic named range in Excel?
+
+B: Okay, first we have to select the cells. Okay, first we have to select the cells. Then we have to go to the data tab. In the data tab we can go in the name manager. Okay, so in, in the main name manager. There is a feature in Excel we have to go to the name manager and we can create a. You know, we have to create a name for the selected cells. Okay. And we can use that name range wherever we want in our calculation or chart. I mean visuals.
+
+A: Okay. Okay. Okay, fine. Ashish, I want help from your end. Okay. I need to know the purpose of Excel Ribbon and how can I customize it. So what will be the steps you are going to guide me?
+
+B: Okay, first you have. You can click on any tab. Okay, what's the purpose of Excel Ribbon? Ribbon. Sir, the purpose of Excel Ribbon is we can customize our ribbon. Okay, Ribbon is nothing. It is on the. You know what we are seeing on the top? Home tab, data tab, format tab or whatever we are seeing on the top that is a whole ribbon. Okay. And we can, how we can customize, we can just click on any tab, right click. Then at the bottom we can see the customize Ribbon in customized Ribbon we can, on the developer tab, we can, you know, create our own tab in which we are putting all the important features which are used, which we are using frequently. Like we can put clear format, this, print this, color.
+
+A: Okay, well, so tell me. I want to protect my workbook in Excel. So what methods am I going to use.
+
+B: The protection? Okay, sir, actually I have used protection but I haven't used recently. But I do remember that we can protect a range of cell. We can protect the worksheet, we can protect the workbook. We just have to go on the data tab, I think. Okay, okay, you think.
+
+A: I mean how much sure you are about it.
+
+B: Sir, I haven't used recently actually.
+
+A: Okay, okay, no, no worries. Okay Ashish, let's come to SQL again. So Ashish, tell me how to drop a table in SQL and what are the potential consequences for that?
+
+B: Okay sir, first of all, if we are using a drop command, it means the entire table will be gone. Okay. The customers, the. I mean the rows, the table structure, entire table or database. We can draw our database also so that table or database will be gone from our SQL. Okay, so we can just write drop table and then the table name this and we can use if exist. Also if exist will basically check if the table is exist in our database or not.
+
+A: Okay. Okay, so tell me what is the difference between an inner join and outer join in squeeze.
+
+B: Okay, so let me give you an example.
+
+A: Sure.
+
+B: Okay, suppose I have two tables customer and order. If I have. If I have to see if I am interested in only those customers who actually placed Order. Okay. I can achieve this using the inner join. So inner join will basically will fetch all the records from the left table and all the records from the right table matches record all the matching record from the left table and all the matching record from the right table, that is inner join.
+
+A: Okay?
+
+B: And the outer join will be fetch all the records from the left table and all the records from the right table whether the rows are matched or not. Okay?
+
+A: Okay, fine. So have you ever used row number function in SQL?
+
+B: Yes, sir. Row number is a window function. Okay. And we have to use row number function with over clause in over. We can put some arguments like partition by this column, order by this column and yes, that, that's about row number function.
+
+A: Okay, So I have been working in SQL and I mean, can I get some purpose of why do we use truncate table statement.
+
+B: Or the purpose of.
+
+A: The truncate statement Table table statement?
+
+B: If you have to remove all the records from our table but not the structure the you want the structure you want. I mean, if you want to delete all the records from a table, you can go for the truncate statement. Truncate statement will delete all the records from the table, but not the structure. Okay? And we can achieve this also by using and delete command. Okay, but delete command will take more time, okay, because it will delete row by row, row by row. Basically, truncate will remove all the records from a table. Oh.
+
+A: So Ashish, my question is, I mean I want to create a temporary table in SQL. Okay, so how do I do that? And why do. I mean, what's the purpose of that? Why should I create a temporary table.
+
+B: In SQL you can create a temporary table and basically a temporary table stores the temporary data within a session or transaction. Okay? Okay, you can create a temporary table like create temporary table and after the temporary table you have to mention the temporary table name. Okay. Then you can write some below query whatever you want to store on that temporary table. And you can use the temporary table wherever you want in our queries, but within a session, once a session will end, that temporary table will be gone.
+
+A: Okay, so coming back to PowerBI. Okay, Ashish, tell me, how do you schedule a data set refresh in PowerBI service? Scheduling of a data set refresh? Yes.
+
+B: How do we schedule in Power BI.
+
+A: Service a data set refresh in Power BI service?
+
+B: What we can do, we can just go to the data set in power BI service, then we can select the scheduled refresh and by selecting the schedule refresh, we can Set we want to schedule our refresh daily, on weekly purpose. We can do this by going to the data set in Power BI service.
+
+A: So can you explain me the difference between a Power BI Pro and Power BI Premium licenses?
+
+B: Yes, sir.
+
+A: Yes, please.
+
+B: Actually, Power BI in Power BI Pro we can share our report, share our report to other users. Also we can publish our report to the web, then we can share the link and basically the difference is that in Power BI Pro, the individual license that allows sharing, collaboration and access to the Power bi. Okay, basically in Power BI Pro we can do everything. But the thing is that I think in Power BI Pro we cannot handle the large data set. For that we have to go for the Power BI Premium. Sir.
+
+A: Are you sure on that, Ashish?
+
+B: Sir, I'm not sure, but I, you know, I read some, I read about this and.
+
+A: Okay, fine, not an issue. Well, coming to the next question. I mean what is Power BI desktop optimized for?
+
+B: Optimized for.
+
+A: How does it differ from Power BI service?
+
+B: A Power BI desktop optimized for creating and designing report with full functionality on our local machine, sir. Okay, and talking about Power BI Service, cloud based platform for sharing, collaborating and accessing report online. It also supports scheduled refresh and dashboard creation.
+
+A: Ashish, my last question. What do you understand by the term tax?
+
+B: DEX stand for data analysis expression. And we can. Sir, there are so many decks available actually in Power bi like text. Text functions. DAX is a basically language. Okay, whatever we are doing in Excel then in Excel people are calling like formulas and functions. So we just have. We are using those functions and formulas in Power BI service. Okay, but the thing is that we cannot see the output at, you know, during writing the code. So we have to first create a dax. Then we have to use the text in. In any visual to check if it is correct or wrong. Okay, so DAX stands for data analysis expression. And there are many decks available like text functions, filter functions. In filter functions we have all, all accept filter. In text function we have the common one left, right, mid, upper, lower and time. There are some time intelligence date YTD date QTD quarter to date. Okay, and there are some more like logical if I think if's not there in Power BI service if is available in Microsoft Excel. But there is one function called switch. If we have multiple condition we can use switch function and switch. We just have to put first expression like we can put true and then we have to. If this is this, then give this. If this is this, then give this.
+
+A: Well, super. So with that Ashish I would like to know, where do you see yourself in the next five years?
+
+B: I will see in a senior position. Actually, my end goal is I, I want to get a job as a data scientist.
+
+A: Okay.
+
+B: So I will see my. Myself in a senior position in the next five years.
+
+A: Okay, fine. So why should I, I mean, why should the company hire you? I mean, what makes you stand out from others?
+
+B: So you should hire me because I'm very passionate about data analytics and I'm continuously learning all the things. Like I'm learning some new things even though I have learned all the, you know, all of the. Even though I have learned all the things about the tools which are the common one. But I'm enhancing my learning by learning something new. So that's why you can hire me, sir. I am a very disciplined person. I. Whatever. If you will give me some task and I think like I have to do this, then I will do where I will. It doesn't matter how much time it will take or how many challenges I have to face, I will complete your task. So that's why you can hire me, sir.
+
+A: So don't you think that, I mean, how much time it will take, as you said now, right now, so it will disturb your work life balance, you know?
+
+B: Yes, I'm trying, I will try to manage my work life balance. Okay. And I will, as I told, I will prioritize my workload to maintain a sustainable balance.
+
+A: Fine. Superb. So with that, our HR team will get back to you on this. Okay? The feedback. Okay? So just hold on and wait for the right time. So, Ashish, with that, thank you, thank you for joining today's podcast. Have a great day.
+
+B: Thank you so much, sir. Yep.","**Candidate Performance Summary:**
+
+The candidate, Ashish, demonstrated a good level of domain knowledge in the areas of data analytics, SQL, Excel, and Power BI. He was able to provide detailed explanations and examples for most of the technical questions asked. He showed a good understanding of the tools and technologies used in the field and was able to articulate his experiences with them. However, there were a few instances where he was unsure or lacked clarity in his responses, indicating a need for further learning and experience.
+
+In terms of communication skills, Ashish was generally clear and articulate. He was able to express his thoughts and ideas effectively, and he demonstrated good listening skills by responding appropriately to the interviewer's questions. However, there were a few instances where his responses were a bit long-winded and could have been more concise.
+
+Regarding soft skills, Ashish showed a good level of discipline and commitment to his work. He demonstrated a willingness to learn and improve, and he expressed a clear career goal. However, his responses to questions about work-life balance and why he should be hired were somewhat generic and could have been more personalized and compelling.
+
+**Strengths:**
+- Good domain knowledge and technical skills
+- Clear communication and good listening skills
+- Demonstrated commitment and willingness to learn
+
+**Areas of Improvement:**
+- Needs to improve clarity and confidence in some areas of domain knowledge
+- Responses could be more concise and to the point
+- Soft skills responses could be more personalized and compelling
+
+**Scorecard:**
+- Communication: 7/10
+- Domain Knowledge: 8/10
+- Confidence & Clarity: 7/10
+- Soft Skills: 6/10
+- Overall Score: 7/10
+
+**Recommendation:** Consider — Ashish has demonstrated good technical skills and a willingness to learn, which are positive attributes. However, he could benefit from further experience and training to improve his confidence and clarity in certain areas. His responses to soft skills questions could also be more compelling. Therefore, it would be worth considering him for a role that provides opportunities for further learning and development.","You are an expert interviewer evaluator.
+
+Analyze the following interview transcript in-depth and assess the candidate's performance based on the following categories:
+- Communication Skills
+- Domain Knowledge
+- Confidence and Clarity
+- Soft Skills (Teamwork, Leadership, Adaptability, etc.)
+
+Your output should include:
+1. A well-written summary of the candidate's performance (at least 3 detailed paragraphs)
+2. A bullet point list of strengths and areas of improvement
+3. A scorecard with ratings out of 10 for each category
+4. An overall recommendation (Hire, Consider, or Reject) with justification
+
+Format:
+**Candidate Performance Summary:**
+[Full detailed summary]
+
+**Strengths:**
+- [Strength 1]
+- [Strength 2]
+
+**Areas of Improvement:**
+- [Weakness 1]
+- [Weakness 2]
+
+**Scorecard:**
+- Communication: X/10
+- Domain Knowledge: X/10
+- Confidence & Clarity: X/10
+- Soft Skills: X/10
+- Overall Score: X/10
+
+**Recommendation:** [Hire / Consider / Reject] — [Justify in 1-2 sentences]"
+2025-08-12T14:24:46.983523,Data Analyst Freshers Mock Interview Learn Data Analytics from Talentele dataanalytics.mp3,Technical Depth,"A: Here we go. Hey. Hi Ashish, how are you?
+
+B: I'm good sir. What about you?
+
+A: Yes, I'm also doing great, thank you for asking. Ashish. So as I can see your profile, you have applied for the position of data analyst as a fresher. Okay. So Ashish, can you please walk me through your profile once?
+
+B: Sure sir. First of all, thank you for giving me this opportunity. From Dehradun, I have completed my graduation Bachelors of Commerce. I have three years of work experience in social media marketing. Regarding my current skills, I am proficient in SQL, Power bi, Dax, Advanced Excel and I have created many projects using these tools on my own. Actually they are not guided projects. Also like recently I have worked on supply chain analysis. On that project I have solved a business problem and I created a beautiful dashboard on Power bi. Apart from this, currently I am learning Python for Autumn for automating tasks and I'm learning some libraries which are used for data analysis. This is, that's all about. Okay, okay.
+
+A: So Ashish, while you were working with this, all these data sets and all. Okay, so at that time what, you know, what challenges did you face using last data set? I mean how did you approach it and what was the outcome? You said that you were working on multiple projects, right?
+
+B: Yes.
+
+A: So what challenges did you face while using large data sets?
+
+B: Actually the most challenging part is only the clean part. Okay. When we have to deal with some null values, missing values, we have to remove some columns. So we have to think like very deeply which column is required for our analysis and which column are not. So the cleaning part is most challenging in my previous project, sir.
+
+A: Okay. Okay. So. So Ashish, tell me, I mean how did you prioritize your work when you were working with multiple projects and competing red lines? So can you, can you just give me a real time example? How did you do that?
+
+B: Yes sir, I prioritize my work, I prioritize my workload to maintain a sustainable balance. Like whatever I think it is most important. Okay. There, then I will do, I will complete that task first, then I will move to my next task. Okay. I will basically I will divide a big task into subsets of. Okay.
+
+A: Okay.
+
+B: Yes. So like I, whatever I have to do first I will complete that task, then I will move to my next task. That's how I can manage. Okay.
+
+A: Okay. Well, well Ashish, so as you were associated with multiple projects, so how did you, you know, analyze, ensure that the data you analyze is used ethically, especially when you're dealing with sensitive information.
+
+B: I can put some restriction to my Data okay. That the industry people can see whatever is going on with this data. Okay. And I will put some restrictions so the other person cannot see the data and whatever I'm doing with the data.
+
+A: So as tell me, how would you rate yourself on a scale of 10 when it comes to Excel?
+
+B: I would give seven.
+
+A: So, seven. Okay, so let's get started.
+
+B: Sure, sir.
+
+A: Okay, so Ashish, tell me the purpose of Excel data model and how you can enable it.
+
+B: Okay, sir, suppose I have a data, okay. In my Excel file I have multiple tables. What I can do, I can just create a pivot table and on the pivot table there's an option add this data to a data model. Okay? Then my data will be stored in power pivot. Okay? And in power period, I can do the data modeling. I can connect all the dimension table to the effect table and basically I will do, I can do anything, whatever I'm doing in power bi. Okay, I can connect all the tables and dimension table and fact table and that's how I can enable power pivot in Excel and I can do the modeling part in Excel with the help of power pivot.
+
+A: So as you were associated with multiple projects, Ashish, can you tell me, have you come across the, you know the term or the function called concat and text join in Excel? May I know what it's used?
+
+B: It is basically, you know, combine two or more strings in a cell. We, we can use concat to combine two string in one cell.
+
+A: Okay. Okay.
+
+B: And the text join is basically text join do the same work as concat. Okay. And text join we can put a separator. Okay. Like we have to combine with. We have to combine this text using a separator. So we can mention the separator it is comma or space. That's how we can use concat and text join. Also what we can do the. There is one more option. We can just write equal to our cell. Then we can refer to a cell. Then we have to put and, and, and, and sign. Then after, after end we can put another cell. Also we can join a space. If you join a space. So we can put some inverted comma. That's how we can basically concat is used to combine two or more string.
+
+A: Got you, got you. Okay, so tell me Ashish, how would you create a dynamic named range in Excel?
+
+B: Okay, first we have to select the cells. Okay, first we have to select the cells. Then we have to go to the data tab. In the data tab we can go in the name manager. Okay, so in, in the main name manager. There is a feature in Excel we have to go to the name manager and we can create a. You know, we have to create a name for the selected cells. Okay. And we can use that name range wherever we want in our calculation or chart. I mean visuals.
+
+A: Okay. Okay. Okay, fine. Ashish, I want help from your end. Okay. I need to know the purpose of Excel Ribbon and how can I customize it. So what will be the steps you are going to guide me?
+
+B: Okay, first you have. You can click on any tab. Okay, what's the purpose of Excel Ribbon? Ribbon. Sir, the purpose of Excel Ribbon is we can customize our ribbon. Okay, Ribbon is nothing. It is on the. You know what we are seeing on the top? Home tab, data tab, format tab or whatever we are seeing on the top that is a whole ribbon. Okay. And we can, how we can customize, we can just click on any tab, right click. Then at the bottom we can see the customize Ribbon in customized Ribbon we can, on the developer tab, we can, you know, create our own tab in which we are putting all the important features which are used, which we are using frequently. Like we can put clear format, this, print this, color.
+
+A: Okay, well, so tell me. I want to protect my workbook in Excel. So what methods am I going to use.
+
+B: The protection? Okay, sir, actually I have used protection but I haven't used recently. But I do remember that we can protect a range of cell. We can protect the worksheet, we can protect the workbook. We just have to go on the data tab, I think. Okay, okay, you think.
+
+A: I mean how much sure you are about it.
+
+B: Sir, I haven't used recently actually.
+
+A: Okay, okay, no, no worries. Okay Ashish, let's come to SQL again. So Ashish, tell me how to drop a table in SQL and what are the potential consequences for that?
+
+B: Okay sir, first of all, if we are using a drop command, it means the entire table will be gone. Okay. The customers, the. I mean the rows, the table structure, entire table or database. We can draw our database also so that table or database will be gone from our SQL. Okay, so we can just write drop table and then the table name this and we can use if exist. Also if exist will basically check if the table is exist in our database or not.
+
+A: Okay. Okay, so tell me what is the difference between an inner join and outer join in squeeze.
+
+B: Okay, so let me give you an example.
+
+A: Sure.
+
+B: Okay, suppose I have two tables customer and order. If I have. If I have to see if I am interested in only those customers who actually placed Order. Okay. I can achieve this using the inner join. So inner join will basically will fetch all the records from the left table and all the records from the right table matches record all the matching record from the left table and all the matching record from the right table, that is inner join.
+
+A: Okay?
+
+B: And the outer join will be fetch all the records from the left table and all the records from the right table whether the rows are matched or not. Okay?
+
+A: Okay, fine. So have you ever used row number function in SQL?
+
+B: Yes, sir. Row number is a window function. Okay. And we have to use row number function with over clause in over. We can put some arguments like partition by this column, order by this column and yes, that, that's about row number function.
+
+A: Okay, So I have been working in SQL and I mean, can I get some purpose of why do we use truncate table statement.
+
+B: Or the purpose of.
+
+A: The truncate statement Table table statement?
+
+B: If you have to remove all the records from our table but not the structure the you want the structure you want. I mean, if you want to delete all the records from a table, you can go for the truncate statement. Truncate statement will delete all the records from the table, but not the structure. Okay? And we can achieve this also by using and delete command. Okay, but delete command will take more time, okay, because it will delete row by row, row by row. Basically, truncate will remove all the records from a table. Oh.
+
+A: So Ashish, my question is, I mean I want to create a temporary table in SQL. Okay, so how do I do that? And why do. I mean, what's the purpose of that? Why should I create a temporary table.
+
+B: In SQL you can create a temporary table and basically a temporary table stores the temporary data within a session or transaction. Okay? Okay, you can create a temporary table like create temporary table and after the temporary table you have to mention the temporary table name. Okay. Then you can write some below query whatever you want to store on that temporary table. And you can use the temporary table wherever you want in our queries, but within a session, once a session will end, that temporary table will be gone.
+
+A: Okay, so coming back to PowerBI. Okay, Ashish, tell me, how do you schedule a data set refresh in PowerBI service? Scheduling of a data set refresh? Yes.
+
+B: How do we schedule in Power BI.
+
+A: Service a data set refresh in Power BI service?
+
+B: What we can do, we can just go to the data set in power BI service, then we can select the scheduled refresh and by selecting the schedule refresh, we can Set we want to schedule our refresh daily, on weekly purpose. We can do this by going to the data set in Power BI service.
+
+A: So can you explain me the difference between a Power BI Pro and Power BI Premium licenses?
+
+B: Yes, sir.
+
+A: Yes, please.
+
+B: Actually, Power BI in Power BI Pro we can share our report, share our report to other users. Also we can publish our report to the web, then we can share the link and basically the difference is that in Power BI Pro, the individual license that allows sharing, collaboration and access to the Power bi. Okay, basically in Power BI Pro we can do everything. But the thing is that I think in Power BI Pro we cannot handle the large data set. For that we have to go for the Power BI Premium. Sir.
+
+A: Are you sure on that, Ashish?
+
+B: Sir, I'm not sure, but I, you know, I read some, I read about this and.
+
+A: Okay, fine, not an issue. Well, coming to the next question. I mean what is Power BI desktop optimized for?
+
+B: Optimized for.
+
+A: How does it differ from Power BI service?
+
+B: A Power BI desktop optimized for creating and designing report with full functionality on our local machine, sir. Okay, and talking about Power BI Service, cloud based platform for sharing, collaborating and accessing report online. It also supports scheduled refresh and dashboard creation.
+
+A: Ashish, my last question. What do you understand by the term tax?
+
+B: DEX stand for data analysis expression. And we can. Sir, there are so many decks available actually in Power bi like text. Text functions. DAX is a basically language. Okay, whatever we are doing in Excel then in Excel people are calling like formulas and functions. So we just have. We are using those functions and formulas in Power BI service. Okay, but the thing is that we cannot see the output at, you know, during writing the code. So we have to first create a dax. Then we have to use the text in. In any visual to check if it is correct or wrong. Okay, so DAX stands for data analysis expression. And there are many decks available like text functions, filter functions. In filter functions we have all, all accept filter. In text function we have the common one left, right, mid, upper, lower and time. There are some time intelligence date YTD date QTD quarter to date. Okay, and there are some more like logical if I think if's not there in Power BI service if is available in Microsoft Excel. But there is one function called switch. If we have multiple condition we can use switch function and switch. We just have to put first expression like we can put true and then we have to. If this is this, then give this. If this is this, then give this.
+
+A: Well, super. So with that Ashish I would like to know, where do you see yourself in the next five years?
+
+B: I will see in a senior position. Actually, my end goal is I, I want to get a job as a data scientist.
+
+A: Okay.
+
+B: So I will see my. Myself in a senior position in the next five years.
+
+A: Okay, fine. So why should I, I mean, why should the company hire you? I mean, what makes you stand out from others?
+
+B: So you should hire me because I'm very passionate about data analytics and I'm continuously learning all the things. Like I'm learning some new things even though I have learned all the, you know, all of the. Even though I have learned all the things about the tools which are the common one. But I'm enhancing my learning by learning something new. So that's why you can hire me, sir. I am a very disciplined person. I. Whatever. If you will give me some task and I think like I have to do this, then I will do where I will. It doesn't matter how much time it will take or how many challenges I have to face, I will complete your task. So that's why you can hire me, sir.
+
+A: So don't you think that, I mean, how much time it will take, as you said now, right now, so it will disturb your work life balance, you know?
+
+B: Yes, I'm trying, I will try to manage my work life balance. Okay. And I will, as I told, I will prioritize my workload to maintain a sustainable balance.
+
+A: Fine. Superb. So with that, our HR team will get back to you on this. Okay? The feedback. Okay? So just hold on and wait for the right time. So, Ashish, with that, thank you, thank you for joining today's podcast. Have a great day.
+
+B: Thank you so much, sir. Yep.","**Technical Assessment:**
+Ashish demonstrated a good understanding of the technical concepts related to the role of a data analyst. He was able to explain his skills in SQL, Power BI, DAX, and Excel with clarity and depth. He provided practical examples of how he has used these tools in his projects, such as the supply chain analysis project where he created a dashboard on Power BI. His explanation of how he handles large datasets, particularly the cleaning process, was accurate and showed his problem-solving approach. 
+
+However, there were a few instances where Ashish seemed unsure. For example, when asked about protecting a workbook in Excel, he admitted that he hadn't used this feature recently and was unsure about the exact steps. Similarly, when asked about the difference between Power BI Pro and Power BI Premium licenses, he was not entirely confident in his response. 
+
+Ashish's approach to problem-solving was demonstrated in his responses to questions about handling large datasets and prioritizing work on multiple projects. He explained his method of dividing a large task into subsets and completing them one by one, showing his ability to manage his workload effectively. 
+
+**Technical Strengths:**
+- SQL: Ashish demonstrated a strong understanding of SQL, explaining how to drop a table and the consequences, the difference between inner join and outer join, and how to use the row number function.
+- Power BI and DAX: He showed proficiency in Power BI and DAX, explaining how to schedule a data set refresh in Power BI service, the difference between Power BI Pro and Power BI Premium licenses, and the purpose of DAX.
+
+**Technical Weaknesses or Gaps:**
+- Excel: While Ashish showed a good understanding of Excel, he was unsure about certain features such as protecting a workbook. This could be a potential area for improvement.
+- Confidence in responses: There were a few instances where Ashish seemed unsure in his responses, such as when explaining the difference between Power BI Pro and Power BI Premium licenses. This could indicate a lack of confidence or depth in his understanding of these concepts.
+
+**Tech Rating (out of 10):** 7/10
+**Recommendation:** Moderate Technical Candidate — Ashish has a good grasp of the technical skills required for a data analyst role, but there are areas where he could improve, particularly his knowledge of Excel and his confidence in explaining certain concepts. He would benefit from further training and experience.","You are a senior technical interviewer.
+
+Evaluate the candidate's technical depth demonstrated in this interview transcript. Consider:
+- Clarity and depth of technical concepts explained
+- Problem-solving approach and accuracy
+- Practical knowledge and examples
+- Consistency in technical understanding
+
+Output Format:
+**Technical Assessment:**
+[3-4 detailed paragraphs with in-depth analysis of technical responses]
+
+**Technical Strengths:**
+- [Skill + example]
+- [Skill + example]
+
+**Technical Weaknesses or Gaps:**
+- [Area + reason]
+
+**Tech Rating (out of 10):** X/10
+**Recommendation:** [Strong / Moderate / Weak] Technical Candidate — [Optional comment]"
+2025-08-12T14:29:16.094907,Data Analyst Freshers Mock Interview Learn Data Analytics from Talentele dataanalytics.mp3,Skill Summary,"A: Here we go. Hey. Hi Ashish, how are you?
+
+B: I'm good sir. What about you?
+
+A: Yes, I'm also doing great, thank you for asking. Ashish. So as I can see your profile, you have applied for the position of data analyst as a fresher. Okay. So Ashish, can you please walk me through your profile once?
+
+B: Sure sir. First of all, thank you for giving me this opportunity. From Dehradun, I have completed my graduation Bachelors of Commerce. I have three years of work experience in social media marketing. Regarding my current skills, I am proficient in SQL, Power bi, Dax, Advanced Excel and I have created many projects using these tools on my own. Actually they are not guided projects. Also like recently I have worked on supply chain analysis. On that project I have solved a business problem and I created a beautiful dashboard on Power bi. Apart from this, currently I am learning Python for Autumn for automating tasks and I'm learning some libraries which are used for data analysis. This is, that's all about. Okay, okay.
+
+A: So Ashish, while you were working with this, all these data sets and all. Okay, so at that time what, you know, what challenges did you face using last data set? I mean how did you approach it and what was the outcome? You said that you were working on multiple projects, right?
+
+B: Yes.
+
+A: So what challenges did you face while using large data sets?
+
+B: Actually the most challenging part is only the clean part. Okay. When we have to deal with some null values, missing values, we have to remove some columns. So we have to think like very deeply which column is required for our analysis and which column are not. So the cleaning part is most challenging in my previous project, sir.
+
+A: Okay. Okay. So. So Ashish, tell me, I mean how did you prioritize your work when you were working with multiple projects and competing red lines? So can you, can you just give me a real time example? How did you do that?
+
+B: Yes sir, I prioritize my work, I prioritize my workload to maintain a sustainable balance. Like whatever I think it is most important. Okay. There, then I will do, I will complete that task first, then I will move to my next task. Okay. I will basically I will divide a big task into subsets of. Okay.
+
+A: Okay.
+
+B: Yes. So like I, whatever I have to do first I will complete that task, then I will move to my next task. That's how I can manage. Okay.
+
+A: Okay. Well, well Ashish, so as you were associated with multiple projects, so how did you, you know, analyze, ensure that the data you analyze is used ethically, especially when you're dealing with sensitive information.
+
+B: I can put some restriction to my Data okay. That the industry people can see whatever is going on with this data. Okay. And I will put some restrictions so the other person cannot see the data and whatever I'm doing with the data.
+
+A: So as tell me, how would you rate yourself on a scale of 10 when it comes to Excel?
+
+B: I would give seven.
+
+A: So, seven. Okay, so let's get started.
+
+B: Sure, sir.
+
+A: Okay, so Ashish, tell me the purpose of Excel data model and how you can enable it.
+
+B: Okay, sir, suppose I have a data, okay. In my Excel file I have multiple tables. What I can do, I can just create a pivot table and on the pivot table there's an option add this data to a data model. Okay? Then my data will be stored in power pivot. Okay? And in power period, I can do the data modeling. I can connect all the dimension table to the effect table and basically I will do, I can do anything, whatever I'm doing in power bi. Okay, I can connect all the tables and dimension table and fact table and that's how I can enable power pivot in Excel and I can do the modeling part in Excel with the help of power pivot.
+
+A: So as you were associated with multiple projects, Ashish, can you tell me, have you come across the, you know the term or the function called concat and text join in Excel? May I know what it's used?
+
+B: It is basically, you know, combine two or more strings in a cell. We, we can use concat to combine two string in one cell.
+
+A: Okay. Okay.
+
+B: And the text join is basically text join do the same work as concat. Okay. And text join we can put a separator. Okay. Like we have to combine with. We have to combine this text using a separator. So we can mention the separator it is comma or space. That's how we can use concat and text join. Also what we can do the. There is one more option. We can just write equal to our cell. Then we can refer to a cell. Then we have to put and, and, and, and sign. Then after, after end we can put another cell. Also we can join a space. If you join a space. So we can put some inverted comma. That's how we can basically concat is used to combine two or more string.
+
+A: Got you, got you. Okay, so tell me Ashish, how would you create a dynamic named range in Excel?
+
+B: Okay, first we have to select the cells. Okay, first we have to select the cells. Then we have to go to the data tab. In the data tab we can go in the name manager. Okay, so in, in the main name manager. There is a feature in Excel we have to go to the name manager and we can create a. You know, we have to create a name for the selected cells. Okay. And we can use that name range wherever we want in our calculation or chart. I mean visuals.
+
+A: Okay. Okay. Okay, fine. Ashish, I want help from your end. Okay. I need to know the purpose of Excel Ribbon and how can I customize it. So what will be the steps you are going to guide me?
+
+B: Okay, first you have. You can click on any tab. Okay, what's the purpose of Excel Ribbon? Ribbon. Sir, the purpose of Excel Ribbon is we can customize our ribbon. Okay, Ribbon is nothing. It is on the. You know what we are seeing on the top? Home tab, data tab, format tab or whatever we are seeing on the top that is a whole ribbon. Okay. And we can, how we can customize, we can just click on any tab, right click. Then at the bottom we can see the customize Ribbon in customized Ribbon we can, on the developer tab, we can, you know, create our own tab in which we are putting all the important features which are used, which we are using frequently. Like we can put clear format, this, print this, color.
+
+A: Okay, well, so tell me. I want to protect my workbook in Excel. So what methods am I going to use.
+
+B: The protection? Okay, sir, actually I have used protection but I haven't used recently. But I do remember that we can protect a range of cell. We can protect the worksheet, we can protect the workbook. We just have to go on the data tab, I think. Okay, okay, you think.
+
+A: I mean how much sure you are about it.
+
+B: Sir, I haven't used recently actually.
+
+A: Okay, okay, no, no worries. Okay Ashish, let's come to SQL again. So Ashish, tell me how to drop a table in SQL and what are the potential consequences for that?
+
+B: Okay sir, first of all, if we are using a drop command, it means the entire table will be gone. Okay. The customers, the. I mean the rows, the table structure, entire table or database. We can draw our database also so that table or database will be gone from our SQL. Okay, so we can just write drop table and then the table name this and we can use if exist. Also if exist will basically check if the table is exist in our database or not.
+
+A: Okay. Okay, so tell me what is the difference between an inner join and outer join in squeeze.
+
+B: Okay, so let me give you an example.
+
+A: Sure.
+
+B: Okay, suppose I have two tables customer and order. If I have. If I have to see if I am interested in only those customers who actually placed Order. Okay. I can achieve this using the inner join. So inner join will basically will fetch all the records from the left table and all the records from the right table matches record all the matching record from the left table and all the matching record from the right table, that is inner join.
+
+A: Okay?
+
+B: And the outer join will be fetch all the records from the left table and all the records from the right table whether the rows are matched or not. Okay?
+
+A: Okay, fine. So have you ever used row number function in SQL?
+
+B: Yes, sir. Row number is a window function. Okay. And we have to use row number function with over clause in over. We can put some arguments like partition by this column, order by this column and yes, that, that's about row number function.
+
+A: Okay, So I have been working in SQL and I mean can I get some purpose of why do we use truncate table statement.
+
+B: Or the purpose of.
+
+A: The truncate statement Table table statement?
+
+B: If you have to remove all the records from our table but not the structure the you want the structure you want. I mean, if you want to delete all the records from a table, you can go for the truncate statement. Truncate statement will delete all the records from the table, but not the structure. Okay? And we can achieve this also by using and delete command. Okay, but delete command will take more time, okay, because it will delete row by row, row by row. Basically, truncate will remove all the records from a table. Oh.
+
+A: So Ashish, my question is, I mean I want to create a temporary table in SQL. Okay, so how do I do that? And why do. I mean, what's the purpose of that? Why should I create a temporary table.
+
+B: In SQL you can create a temporary table and basically a temporary table stores the temporary data within a session or transaction. Okay? Okay, you can create a temporary table like create temporary table and after the temporary table you have to mention the temporary table name. Okay. Then you can write some below query whatever you want to store on that temporary table. And you can use the temporary table wherever you want in our queries, but within a session, once a session will end, that temporary table will be gone.
+
+A: Okay, so coming back to PowerBI. Okay, Ashish, tell me, how do you schedule a data set refresh in PowerBI service? Scheduling of a data set refresh? Yes.
+
+B: How do we schedule in Power BI.
+
+A: Service a data set refresh in Power BI service?
+
+B: What we can do, we can just go to the data set in power BI service, then we can select the scheduled refresh and by selecting the schedule refresh, we can Set we want to schedule our refresh daily, on weekly purpose. We can do this by going to the data set in Power BI service.
+
+A: So can you explain me the difference between a Power BI Pro and Power BI Premium licenses?
+
+B: Yes, sir.
+
+A: Yes, please.
+
+B: Actually, Power BI in Power BI Pro we can share our report, share our report to other users. Also we can publish our report to the web, then we can share the link and basically the difference is that in Power BI Pro, the individual license that allows sharing, collaboration and access to the Power bi. Okay, basically in Power BI Pro we can do everything. But the thing is that I think in Power BI Pro we cannot handle the large data set. For that we have to go for the Power BI Premium. Sir.
+
+A: Are you sure on that, Ashish?
+
+B: Sir, I'm not sure, but I, you know, I read some, I read about this and.
+
+A: Okay, fine, not an issue. Well, coming to the next question. I mean what is Power BI desktop optimized for?
+
+B: Optimized for.
+
+A: How does it differ from Power BI service?
+
+B: A Power BI desktop optimized for creating and designing report with full functionality on our local machine, sir. Okay, and talking about Power BI Service, cloud based platform for sharing, collaborating and accessing report online. It also supports scheduled refresh and dashboard creation.
+
+A: Ashish, my last question. What do you understand by the term tax?
+
+B: DEX stand for data analysis expression. And we can. Sir, there are so many decks available actually in Power bi like text. Text functions. DAX is a basically language. Okay, whatever we are doing in Excel then in Excel people are calling like formulas and functions. So we just have. We are using those functions and formulas in Power BI service. Okay, but the thing is that we cannot see the output at, you know, during writing the code. So we have to first create a dax. Then we have to use the text in. In any visual to check if it is correct or wrong. Okay, so DAX stands for data analysis expression. And there are many decks available like text functions, filter functions. In filter functions we have all, all accept filter. In text function we have the common one left, right, mid, upper, lower and time. There are some time intelligence date YTD date QTD quarter to date. Okay, and there are some more like logical if I think if's not there in Power BI service if is available in Microsoft Excel. But there is one function called switch. If we have multiple condition we can use switch function and switch. We just have to put first expression like we can put true and then we have to. If this is this, then give this. If this is this, then give this.
+
+A: Well, super. So with that Ashish I would like to know, where do you see yourself in the next five years?
+
+B: I will see in a senior position. Actually, my end goal is I, I want to get a job as a data scientist.
+
+A: Okay.
+
+B: So I will see my. Myself in a senior position in the next five years.
+
+A: Okay, fine. So why should I, I mean, why should the company hire you? I mean, what makes you stand out from others?
+
+B: So you should hire me because I'm very passionate about data analytics and I'm continuously learning all the things. Like I'm learning some new things even though I have learned all the, you know, all of the. Even though I have learned all the things about the tools which are the common one. But I'm enhancing my learning by learning something new. So that's why you can hire me, sir. I am a very disciplined person. I. Whatever. If you will give me some task and I think like I have to do this, then I will do where I will. It doesn't matter how much time it will take or how many challenges I have to face, I will complete your task. So that's why you can hire me, sir.
+
+A: So don't you think that, I mean, how much time it will take, as you said now, right now, so it will disturb your work life balance, you know?
+
+B: Yes, I'm trying, I will try to manage my work life balance. Okay. And I will, as I told, I will prioritize my workload to maintain a sustainable balance.
+
+A: Fine. Superb. So with that, our HR team will get back to you on this. Okay? The feedback. Okay? So just hold on and wait for the right time. So, Ashish, with that, thank you, thank you for joining today's podcast. Have a great day.
+
+B: Thank you so much, sir. Yep.","**Candidate Performance Summary:**
+
+Ashish, the candidate, demonstrated a strong understanding of the technical aspects of the data analyst role throughout the interview. His proficiency in SQL, Power BI, and Excel was evident as he was able to answer a majority of the technical questions accurately and with confidence. He was able to provide detailed explanations of various functions, commands, and their applications, showcasing his domain knowledge. 
+
+However, Ashish's communication skills were not as strong as his technical knowledge. While he was able to convey his thoughts, there were instances where his explanations were lengthy and could have been more concise. He also seemed to struggle slightly with the language, which could potentially lead to misunderstandings in a professional setting. 
+
+In terms of soft skills, Ashish showed signs of being a dedicated and committed individual, willing to learn and take on challenges. He also demonstrated good problem-solving skills when discussing how he dealt with challenges in his previous projects. However, his responses to questions about his future goals and reasons for being a good fit for the job were quite generic and lacked depth.
+
+**Strengths:**
+- Strong technical knowledge and skills in SQL, Power BI, and Excel
+- Demonstrated problem-solving abilities
+- Willingness to learn and take on challenges
+
+**Areas of Improvement:**
+- Communication skills need to be more concise and clear
+- Needs to provide more unique and in-depth responses to personal and behavioral questions
+
+**Scorecard:**
+- Communication: 6/10
+- Domain Knowledge: 8/10
+- Confidence & Clarity: 7/10
+- Soft Skills: 7/10
+- Overall Score: 7/10
+
+**Recommendation:** Consider — Ashish's strong technical skills make him a good candidate for the role of a data analyst. However, his communication skills need improvement. If he can work on this aspect, he could be a valuable addition to the team.","You are an expert interviewer evaluator.
+
+Analyze the following interview transcript in-depth and assess the candidate's performance based on the following categories:
+- Communication Skills
+- Domain Knowledge
+- Confidence and Clarity
+- Soft Skills (Teamwork, Leadership, Adaptability, etc.)
+
+Your output should include:
+1. A well-written summary of the candidate's performance (at least 3 detailed paragraphs)
+2. A bullet point list of strengths and areas of improvement
+3. A scorecard with ratings out of 10 for each category
+4. An overall recommendation (Hire, Consider, or Reject) with justification
+
+Format:
+**Candidate Performance Summary:**
+[Full detailed summary]
+
+**Strengths:**
+- [Strength 1]
+- [Strength 2]
+
+**Areas of Improvement:**
+- [Weakness 1]
+- [Weakness 2]
+
+**Scorecard:**
+- Communication: X/10
+- Domain Knowledge: X/10
+- Confidence & Clarity: X/10
+- Soft Skills: X/10
+- Overall Score: X/10
+
+**Recommendation:** [Hire / Consider / Reject] — [Justify in 1-2 sentences]"
+2025-08-12T14:31:45.394901,Data Analyst Freshers Mock Interview Learn Data Analytics from Talentele dataanalytics.mp3,Extract Q&A,"A: Here we go. Hey. Hi Ashish, how are you?
+
+B: I'm good sir. What about you?
+
+A: Yes, I'm also doing great, thank you for asking. Ashish. So as I can see your profile, you have applied for the position of data analyst as a fresher. Okay. So Ashish, can you please walk me through your profile once?
+
+B: Sure sir. First of all, thank you for giving me this opportunity. From Dehradun, I have completed my graduation Bachelors of Commerce. I have three years of work experience in social media marketing. Regarding my current skills, I am proficient in SQL, Power bi, Dax, Advanced Excel and I have created many projects using these tools on my own. Actually they are not guided projects. Also like recently I have worked on supply chain analysis. On that project I have solved a business problem and I created a beautiful dashboard on Power bi. Apart from this, currently I am learning Python for Autumn for automating tasks and I'm learning some libraries which are used for data analysis. This is, that's all about. Okay, okay.
+
+A: So Ashish, while you were working with this, all these data sets and all. Okay, so at that time what, you know, what challenges did you face using last data set? I mean how did you approach it and what was the outcome? You said that you were working on multiple projects, right?
+
+B: Yes.
+
+A: So what challenges did you face while using large data sets?
+
+B: Actually the most challenging part is only the clean part. Okay. When we have to deal with some null values, missing values, we have to remove some columns. So we have to think like very deeply which column is required for our analysis and which column are not. So the cleaning part is most challenging in my previous project, sir.
+
+A: Okay. Okay. So. So Ashish, tell me, I mean how did you prioritize your work when you were working with multiple projects and competing red lines? So can you, can you just give me a real time example? How did you do that?
+
+B: Yes sir, I prioritize my work, I prioritize my workload to maintain a sustainable balance. Like whatever I think it is most important. Okay. There, then I will do, I will complete that task first, then I will move to my next task. Okay. I will basically I will divide a big task into subsets of. Okay.
+
+A: Okay.
+
+B: Yes. So like I, whatever I have to do first I will complete that task, then I will move to my next task. That's how I can manage. Okay.
+
+A: Okay. Well, well Ashish, so as you were associated with multiple projects, so how did you, you know, analyze, ensure that the data you analyze is used ethically, especially when you're dealing with sensitive information.
+
+B: I can put some restriction to my Data okay. That the industry people can see whatever is going on with this data. Okay. And I will put some restrictions so the other person cannot see the data and whatever I'm doing with the data.
+
+A: So as tell me, how would you rate yourself on a scale of 10 when it comes to Excel?
+
+B: I would give seven.
+
+A: So, seven. Okay, so let's get started.
+
+B: Sure, sir.
+
+A: Okay, so Ashish, tell me the purpose of Excel data model and how you can enable it.
+
+B: Okay, sir, suppose I have a data, okay. In my Excel file I have multiple tables. What I can do, I can just create a pivot table and on the pivot table there's an option add this data to a data model. Okay? Then my data will be stored in power pivot. Okay? And in power period, I can do the data modeling. I can connect all the dimension table to the effect table and basically I will do, I can do anything, whatever I'm doing in power bi. Okay, I can connect all the tables and dimension table and fact table and that's how I can enable power pivot in Excel and I can do the modeling part in Excel with the help of power pivot.
+
+A: So as you were associated with multiple projects, Ashish, can you tell me, have you come across the, you know the term or the function called concat and text join in Excel? May I know what it's used?
+
+B: It is basically, you know, combine two or more strings in a cell. We, we can use concat to combine two string in one cell.
+
+A: Okay. Okay.
+
+B: And the text join is basically text join do the same work as concat. Okay. And text join we can put a separator. Okay. Like we have to combine with. We have to combine this text using a separator. So we can mention the separator it is comma or space. That's how we can use concat and text join. Also what we can do the. There is one more option. We can just write equal to our cell. Then we can refer to a cell. Then we have to put and, and, and, and sign. Then after, after end we can put another cell. Also we can join a space. If you join a space. So we can put some inverted comma. That's how we can basically concat is used to combine two or more string.
+
+A: Got you, got you. Okay, so tell me Ashish, how would you create a dynamic named range in Excel?
+
+B: Okay, first we have to select the cells. Okay, first we have to select the cells. Then we have to go to the data tab. In the data tab we can go in the name manager. Okay, so in, in the main name manager. There is a feature in Excel we have to go to the name manager and we can create a. You know, we have to create a name for the selected cells. Okay. And we can use that name range wherever we want in our calculation or chart. I mean visuals.
+
+A: Okay. Okay. Okay, fine. Ashish, I want help from your end. Okay. I need to know the purpose of Excel Ribbon and how can I customize it. So what will be the steps you are going to guide me?
+
+B: Okay, first you have. You can click on any tab. Okay, what's the purpose of Excel Ribbon? Ribbon. Sir, the purpose of Excel Ribbon is we can customize our ribbon. Okay, Ribbon is nothing. It is on the. You know what we are seeing on the top? Home tab, data tab, format tab or whatever we are seeing on the top that is a whole ribbon. Okay. And we can, how we can customize, we can just click on any tab, right click. Then at the bottom we can see the customize Ribbon in customized Ribbon we can, on the developer tab, we can, you know, create our own tab in which we are putting all the important features which are used, which we are using frequently. Like we can put clear format, this, print this, color.
+
+A: Okay, well, so tell me. I want to protect my workbook in Excel. So what methods am I going to use.
+
+B: The protection? Okay, sir, actually I have used protection but I haven't used recently. But I do remember that we can protect a range of cell. We can protect the worksheet, we can protect the workbook. We just have to go on the data tab, I think. Okay, okay, you think.
+
+A: I mean how much sure you are about it.
+
+B: Sir, I haven't used recently actually.
+
+A: Okay, okay, no, no worries. Okay Ashish, let's come to SQL again. So Ashish, tell me how to drop a table in SQL and what are the potential consequences for that?
+
+B: Okay sir, first of all, if we are using a drop command, it means the entire table will be gone. Okay. The customers, the. I mean the rows, the table structure, entire table or database. We can draw our database also so that table or database will be gone from our SQL. Okay, so we can just write drop table and then the table name this and we can use if exist. Also if exist will basically check if the table is exist in our database or not.
+
+A: Okay. Okay, so tell me what is the difference between an inner join and outer join in squeeze.
+
+B: Okay, so let me give you an example.
+
+A: Sure.
+
+B: Okay, suppose I have two tables customer and order. If I have. If I have to see if I am interested in only those customers who actually placed Order. Okay. I can achieve this using the inner join. So inner join will basically will fetch all the records from the left table and all the records from the right table matches record all the matching record from the left table and all the matching record from the right table, that is inner join.
+
+A: Okay?
+
+B: And the outer join will be fetch all the records from the left table and all the records from the right table whether the rows are matched or not. Okay?
+
+A: Okay, fine. So have you ever used row number function in SQL?
+
+B: Yes, sir. Row number is a window function. Okay. And we have to use row number function with over clause in over. We can put some arguments like partition by this column, order by this column and yes, that, that's about row number function.
+
+A: Okay, So I have been working in SQL and I mean can I get some purpose of why do we use truncate table statement.
+
+B: Or the purpose of.
+
+A: The truncate statement Table table statement?
+
+B: If you have to remove all the records from our table but not the structure the you want the structure you want. I mean, if you want to delete all the records from a table, you can go for the truncate statement. Truncate statement will delete all the records from the table, but not the structure. Okay? And we can achieve this also by using and delete command. Okay, but delete command will take more time, okay, because it will delete row by row, row by row. Basically, truncate will remove all the records from a table. Oh.
+
+A: So Ashish, my question is, I mean I want to create a temporary table in SQL. Okay, so how do I do that? And why do. I mean, what's the purpose of that? Why should I create a temporary table.
+
+B: In SQL you can create a temporary table and basically a temporary table stores the temporary data within a session or transaction. Okay? Okay, you can create a temporary table like create temporary table and after the temporary table you have to mention the temporary table name. Okay. Then you can write some below query whatever you want to store on that temporary table. And you can use the temporary table wherever you want in our queries, but within a session, once a session will end, that temporary table will be gone.
+
+A: Okay, so coming back to PowerBI. Okay, Ashish, tell me, how do you schedule a data set refresh in PowerBI service? Scheduling of a data set refresh? Yes.
+
+B: How do we schedule in Power BI.
+
+A: Service a data set refresh in Power BI service?
+
+B: What we can do, we can just go to the data set in power BI service, then we can select the scheduled refresh and by selecting the schedule refresh, we can Set we want to schedule our refresh daily, on weekly purpose. We can do this by going to the data set in Power BI service.
+
+A: So can you explain me the difference between a Power BI Pro and Power BI Premium licenses?
+
+B: Yes, sir.
+
+A: Yes, please.
+
+B: Actually, Power BI in Power BI Pro we can share our report, share our report to other users. Also we can publish our report to the web, then we can share the link and basically the difference is that in Power BI Pro, the individual license that allows sharing, collaboration and access to the Power bi. Okay, basically in Power BI Pro we can do everything. But the thing is that I think in Power BI Pro we cannot handle the large data set. For that we have to go for the Power BI Premium. Sir.
+
+A: Are you sure on that, Ashish?
+
+B: Sir, I'm not sure, but I, you know, I read some, I read about this and.
+
+A: Okay, fine, not an issue. Well, coming to the next question. I mean what is Power BI desktop optimized for?
+
+B: Optimized for.
+
+A: How does it differ from Power BI service?
+
+B: A Power BI desktop optimized for creating and designing report with full functionality on our local machine, sir. Okay, and talking about Power BI Service, cloud based platform for sharing, collaborating and accessing report online. It also supports scheduled refresh and dashboard creation.
+
+A: Ashish, my last question. What do you understand by the term tax?
+
+B: DEX stand for data analysis expression. And we can. Sir, there are so many decks available actually in Power bi like text. Text functions. DAX is a basically language. Okay, whatever we are doing in Excel then in Excel people are calling like formulas and functions. So we just have. We are using those functions and formulas in Power BI service. Okay, but the thing is that we cannot see the output at, you know, during writing the code. So we have to first create a dax. Then we have to use the text in. In any visual to check if it is correct or wrong. Okay, so DAX stands for data analysis expression. And there are many decks available like text functions, filter functions. In filter functions we have all, all accept filter. In text function we have the common one left, right, mid, upper, lower and time. There are some time intelligence date YTD date QTD quarter to date. Okay, and there are some more like logical if I think if's not there in Power BI service if is available in Microsoft Excel. But there is one function called switch. If we have multiple condition we can use switch function and switch. We just have to put first expression like we can put true and then we have to. If this is this, then give this. If this is this, then give this.
+
+A: Well, super. So with that Ashish I would like to know, where do you see yourself in the next five years?
+
+B: I will see in a senior position. Actually, my end goal is I, I want to get a job as a data scientist.
+
+A: Okay.
+
+B: So I will see my. Myself in a senior position in the next five years.
+
+A: Okay, fine. So why should I, I mean, why should the company hire you? I mean, what makes you stand out from others?
+
+B: So you should hire me because I'm very passionate about data analytics and I'm continuously learning all the things. Like I'm learning some new things even though I have learned all the, you know, all of the. Even though I have learned all the things about the tools which are the common one. But I'm enhancing my learning by learning something new. So that's why you can hire me, sir. I am a very disciplined person. I. Whatever. If you will give me some task and I think like I have to do this, then I will do where I will. It doesn't matter how much time it will take or how many challenges I have to face, I will complete your task. So that's why you can hire me, sir.
+
+A: So don't you think that, I mean, how much time it will take, as you said now, right now, so it will disturb your work life balance, you know?
+
+B: Yes, I'm trying, I will try to manage my work life balance. Okay. And I will, as I told, I will prioritize my workload to maintain a sustainable balance.
+
+A: Fine. Superb. So with that, our HR team will get back to you on this. Okay? The feedback. Okay? So just hold on and wait for the right time. So, Ashish, with that, thank you, thank you for joining today's podcast. Have a great day.
+
+B: Thank you so much, sir. Yep.","**Q1:** So Ashish, can you please walk me through your profile once?
+
+**A1:** Sure sir. First of all, thank you for giving me this opportunity. From Dehradun, I have completed my graduation Bachelors of Commerce. I have three years of work experience in social media marketing. Regarding my current skills, I am proficient in SQL, Power bi, Dax, Advanced Excel and I have created many projects using these tools on my own. Actually they are not guided projects. Also like recently I have worked on supply chain analysis. On that project I have solved a business problem and I created a beautiful dashboard on Power bi. Apart from this, currently I am learning Python for Autumn for automating tasks and I'm learning some libraries which are used for data analysis. This is, that's all about. Okay, okay.
+
+**Q2:** So Ashish, while you were working with this, all these data sets and all. Okay, so at that time what, you know, what challenges did you face using last data set? I mean how did you approach it and what was the outcome? You said that you were working on multiple projects, right?
+
+**A2:** Actually the most challenging part is only the clean part. Okay. When we have to deal with some null values, missing values, we have to remove some columns. So we have to think like very deeply which column is required for our analysis and which column are not. So the cleaning part is most challenging in my previous project, sir.
+
+**Q3:** So. So Ashish, tell me, I mean how did you prioritize your work when you were working with multiple projects and competing red lines? So can you, can you just give me a real time example? How did you do that?
+
+**A3:** Yes sir, I prioritize my work, I prioritize my workload to maintain a sustainable balance. Like whatever I think it is most important. Okay. There, then I will do, I will complete that task first, then I will move to my next task. Okay. I will basically I will divide a big task into subsets of. Okay.
+
+**Q4:** Well, well Ashish, so as you were associated with multiple projects, so how did you, you know, analyze, ensure that the data you analyze is used ethically, especially when you're dealing with sensitive information.
+
+**A4:** I can put some restriction to my Data okay. That the industry people can see whatever is going on with this data. Okay. And I will put some restrictions so the other person cannot see the data and whatever I'm doing with the data.
+
+**Q5:** So as tell me, how would you rate yourself on a scale of 10 when it comes to Excel?
+
+**A5:** I would give seven.
+
+**Q6:** Okay, so Ashish, tell me the purpose of Excel data model and how you can enable it.
+
+**A6:** Okay, sir, suppose I have a data, okay. In my Excel file I have multiple tables. What I can do, I can just create a pivot table and on the pivot table there's an option add this data to a data model. Okay? Then my data will be stored in power pivot. Okay? And in power period, I can do the data modeling. I can connect all the dimension table to the effect table and basically I will do, I can do anything, whatever I'm doing in power bi. Okay, I can connect all the tables and dimension table and fact table and that's how I can enable power pivot in Excel and I can do the modeling part in Excel with the help of power pivot.
+
+**Q7:** So as you were associated with multiple projects, Ashish, can you tell me, have you come across the, you know the term or the function called concat and text join in Excel? May I know what it's used?
+
+**A7:** It is basically, you know, combine two or more strings in a cell. We, we can use concat to combine two string in one cell. And the text join is basically text join do the same work as concat. Okay. And text join we can put a separator. Okay. Like we have to combine with. We have to combine this text using a separator. So we can mention the separator it is comma or space. That's how we can use concat and text join. Also what we can do the. There is one more option. We can just write equal to our cell. Then we can refer to a cell. Then we have to put and, and, and, and sign. Then after, after end we can put another cell. Also we can join a space. If you join a space. So we can put some inverted comma. That's how we can basically concat is used to combine two or more string.
+
+**Q8:** Okay, so tell me Ashish, how would you create a dynamic named range in Excel?
+
+**A8:** Okay, first we have to select the cells. Okay, first we have to select the cells. Then we have to go to the data tab. In the data tab we can go in the name manager. Okay, so in, in the main name manager. There is a feature in Excel we have to go to the name manager and we can create a. You know, we have to create a name for the selected cells. Okay. And we can use that name range wherever we want in our calculation or chart. I mean visuals.
+
+**Q9:** Okay, fine. Ashish, I want help from your end. Okay. I need to know the purpose of Excel Ribbon and how can I customize it. So what will be the steps you are going to guide me?
+
+**A9:** Okay, first you have. You can click on any tab. Okay, what's the purpose of Excel Ribbon? Ribbon. Sir, the purpose of Excel Ribbon is we can customize our ribbon. Okay, Ribbon is nothing. It is on the. You know what we are seeing on the top? Home tab, data tab, format tab or whatever we are seeing on the top that is a whole ribbon. Okay. And we can, how we can customize, we can just click on any tab, right click. Then at the bottom we can see the customize Ribbon in customized Ribbon we can, on the developer tab, we can, you know, create our own tab in which we are putting all the important features which are used, which we are using frequently. Like we can put clear format, this, print this, color.
+
+**Q10:** Okay, well, so tell me. I want to protect my workbook in Excel. So what methods am I going to use.
+
+**A10:** The protection? Okay, sir, actually I have used protection but I haven't used recently. But I do remember that we can protect a range of cell. We can protect the worksheet, we can protect the workbook. We just have to go on the data tab, I think. Okay, okay, you think.
+
+**Q11:** Okay, so Ashish, tell me how to drop a table in SQL and what are the potential consequences for that?
+
+**A11:** Okay sir, first of all, if we are using a drop command, it means the entire table will be gone. Okay. The customers, the. I mean the rows, the table structure, entire table or database. We can draw our database also so that table or database will be gone from our SQL. Okay, so we can just write drop table and then the table name this and we can use if exist. Also if exist will basically check if the table is exist in our database or not.
+
+**Q12:** Okay, so tell me what is the difference between an inner join and outer join in squeeze.
+
+**A12:** Okay, so let me give you an example. Suppose I have two tables customer and order. If I have. If I have to see if I am interested in only those customers who actually placed Order. Okay. I can achieve this using the inner join. So inner join will basically will fetch all the records from the left table and all the records from the right table matches record all the matching record from the left table and all the matching record from the right table, that is inner join. And the outer join will be fetch all the records from the left table and all the records from the right table whether the rows are matched or not. Okay?
+
+**Q13:** Fine. So have you ever used row number function in SQL?
+
+**A13:** Yes, sir. Row number is a window function. Okay. And we have to use row number function with over clause in over. We can put some arguments like partition by this column, order by this column and yes, that, that's about row number function.
+
+**Q14:** Okay, So I have been working in SQL and I mean can I get some purpose of why do we use truncate table statement.
+
+**A14:** Or the purpose of. If you have to remove all the records from our table but not the structure the you want the structure you want. I mean, if you want to delete all the records from a table, you can go for the truncate statement. Truncate statement will delete all the records from the table, but not the structure. Okay? And we can achieve this also by using and delete command. Okay, but delete command will take more time, okay, because it will delete row by row, row by row. Basically, truncate will remove all the records from a table. Oh.
+
+**Q15:** So Ashish, my question is, I mean I want to create a temporary table in SQL. Okay, so how do I do that? And why do. I mean, what's the purpose of that? Why should I create a temporary table.
+
+**A15:** In SQL you can create a temporary table and basically a temporary table stores the temporary data within a session or transaction. Okay? Okay, you can create a temporary table like create temporary table and after the temporary table you have to mention the temporary table name. Okay. Then you can write some below query whatever you want to store on that temporary table. And you can use the temporary table wherever you want in our queries, but within a session, once a session will end, that temporary table will be gone.
+
+**Q16:** So coming back to PowerBI. Okay, Ashish, tell me, how do you schedule a data set refresh in PowerBI service? Scheduling of a data set refresh? Yes.
+
+**A16:** How do we schedule in Power BI. What we can do, we can just go to the data set in power BI service, then we can select the scheduled refresh and by selecting the schedule refresh, we can Set we want to schedule our refresh daily, on weekly purpose. We can do this by going to the data set in Power BI service.
+
+**Q17:** So can you explain me the difference between a Power BI Pro and Power BI Premium licenses?
+
+**A17:** Actually, Power BI in Power BI Pro we can share our report, share our report to other users. Also we can publish our report to the web, then we can share the link and basically the difference is that in Power BI Pro, the individual license that allows sharing, collaboration and access to the Power bi. Okay, basically in Power BI Pro we can do everything. But the thing is that I think in Power BI Pro we cannot handle the large data set. For that we have to go for the Power BI Premium. Sir.
+
+**Q18:** Okay, so coming back to PowerBI. Okay, Ashish, tell me, how do you schedule a data set refresh in PowerBI service? Scheduling of a data set refresh? Yes.
+
+**A18:** How do we schedule in Power BI. What we can do, we can just go to the data set in power BI service, then we can select the scheduled refresh and by selecting the schedule refresh, we can Set we want to schedule our refresh daily, on weekly purpose. We can do this by going to the data set in Power BI service.
+
+**Q19:** So can you explain me the difference between a Power BI Pro and Power BI Premium licenses?
+
+**A19:** Actually, Power BI in Power BI Pro we can share our report, share our report to other users. Also we can publish our report to the web, then we can share the link and basically the difference is that in Power BI Pro, the individual license that allows sharing, collaboration and access to the Power bi. Okay, basically in Power BI Pro we can do everything. But the thing is that I think in Power BI Pro we cannot handle the large data set. For that we have to go for the Power BI Premium. Sir.
+
+**Q20:** Okay, fine. So what do you understand by the term tax?
+
+**A20:** DEX stand for data analysis expression. And we can. Sir, there are so many decks available actually in Power bi like text. Text functions. DAX is a basically language. Okay, whatever we are doing in Excel then in Excel people are calling like formulas and functions. So we just have. We are using those functions and formulas in Power BI service. Okay, but the thing is that we cannot see the output at, you know, during writing the code. So we have to first create a dax. Then we have to use the text in. In any visual to check if it is correct or wrong. Okay, so DAX stands for data analysis expression. And there are many decks available like text functions, filter functions. In filter functions we have all, all accept filter. In text function we have the common one left, right, mid, upper, lower and time. There are some time intelligence date YTD date QTD quarter to date. Okay, and there are some more like logical if I think if's not there in Power BI service if is available in Microsoft Excel. But there is one function called switch. If we have multiple condition we can use switch function and switch. We just have to put first expression like we can put true and then we have to. If this is this, then give this. If this is this, then give this.","You are a professional transcript processor.
+
+From the following transcript, extract the all technical questions asked by the Interviewer and the corresponding answers from the Interviewee.
+Only include clearly technical questions (skip HR, personal, or small talk), If the questions arent techincal related please dont provide them.
+Do not generate or paraphrase. Use exact phrasing from the transcript when possible.
+
+Format:
+**Q1:** [Question text]
+
+**A1:** [Answer text — at least 2-4 sentences if possible]
+
+**Q2:** ...
+(up to end of the questions)
+
+Ensure that:
+- Each Q&A pair is useful and complete.
+- Answers are comprehensive and not clipped or overly short.Also provide rating for each question & answer pair after each one and total rating at last along with feedback"
+2025-08-12T14:42:00.525687,Data Analyst Freshers Mock Interview Learn Data Analytics from Talentele dataanalytics.mp3,Skill Summary,"A: Here we go. Hey. Hi Ashish, how are you?
+
+B: I'm good sir. What about you?
+
+A: Yes, I'm also doing great, thank you for asking. Ashish. So as I can see your profile, you have applied for the position of data analyst as a fresher. Okay. So Ashish, can you please walk me through your profile once?
+
+B: Sure sir. First of all, thank you for giving me this opportunity. From Dehradun, I have completed my graduation Bachelors of Commerce. I have three years of work experience in social media marketing. Regarding my current skills, I am proficient in SQL, Power bi, Dax, Advanced Excel and I have created many projects using these tools on my own. Actually they are not guided projects. Also like recently I have worked on supply chain analysis. On that project I have solved a business problem and I created a beautiful dashboard on Power bi. Apart from this, currently I am learning Python for Autumn for automating tasks and I'm learning some libraries which are used for data analysis. This is, that's all about. Okay, okay.
+
+A: So Ashish, while you were working with this, all these data sets and all. Okay, so at that time what, you know, what challenges did you face using last data set? I mean how did you approach it and what was the outcome? You said that you were working on multiple projects, right?
+
+B: Yes.
+
+A: So what challenges did you face while using large data sets?
+
+B: Actually the most challenging part is only the clean part. Okay. When we have to deal with some null values, missing values, we have to remove some columns. So we have to think like very deeply which column is required for our analysis and which column are not. So the cleaning part is most challenging in my previous project, sir.
+
+A: Okay. Okay. So. So Ashish, tell me, I mean how did you prioritize your work when you were working with multiple projects and competing red lines? So can you, can you just give me a real time example? How did you do that?
+
+B: Yes sir, I prioritize my work, I prioritize my workload to maintain a sustainable balance. Like whatever I think it is most important. Okay. There, then I will do, I will complete that task first, then I will move to my next task. Okay. I will basically I will divide a big task into subsets of. Okay.
+
+A: Okay.
+
+B: Yes. So like I, whatever I have to do first I will complete that task, then I will move to my next task. That's how I can manage. Okay.
+
+A: Okay. Well, well Ashish, so as you were associated with multiple projects, so how did you, you know, analyze, ensure that the data you analyze is used ethically, especially when you're dealing with sensitive information.
+
+B: I can put some restriction to my Data okay. That the industry people can see whatever is going on with this data. Okay. And I will put some restrictions so the other person cannot see the data and whatever I'm doing with the data.
+
+A: So as tell me, how would you rate yourself on a scale of 10 when it comes to Excel?
+
+B: I would give seven.
+
+A: So, seven. Okay, so let's get started.
+
+B: Sure, sir.
+
+A: Okay, so Ashish, tell me the purpose of Excel data model and how you can enable it.
+
+B: Okay, sir, suppose I have a data, okay. In my Excel file I have multiple tables. What I can do, I can just create a pivot table and on the pivot table there's an option add this data to a data model. Okay? Then my data will be stored in power pivot. Okay? And in power period, I can do the data modeling. I can connect all the dimension table to the effect table and basically I will do, I can do anything, whatever I'm doing in power bi. Okay, I can connect all the tables and dimension table and fact table and that's how I can enable power pivot in Excel and I can do the modeling part in Excel with the help of power pivot.
+
+A: So as you were associated with multiple projects, Ashish, can you tell me, have you come across the, you know the term or the function called concat and text join in Excel? May I know what it's used?
+
+B: It is basically, you know, combine two or more strings in a cell. We, we can use concat to combine two string in one cell.
+
+A: Okay. Okay.
+
+B: And the text join is basically text join do the same work as concat. Okay. And text join we can put a separator. Okay. Like we have to combine with. We have to combine this text using a separator. So we can mention the separator it is comma or space. That's how we can use concat and text join. Also what we can do the. There is one more option. We can just write equal to our cell. Then we can refer to a cell. Then we have to put and, and, and, and sign. Then after, after end we can put another cell. Also we can join a space. If you join a space. So we can put some inverted comma. That's how we can basically concat is used to combine two or more string.
+
+A: Got you, got you. Okay, so tell me Ashish, how would you create a dynamic named range in Excel?
+
+B: Okay, first we have to select the cells. Okay, first we have to select the cells. Then we have to go to the data tab. In the data tab we can go in the name manager. Okay, so in, in the main name manager. There is a feature in Excel we have to go to the name manager and we can create a. You know, we have to create a name for the selected cells. Okay. And we can use that name range wherever we want in our calculation or chart. I mean visuals.
+
+A: Okay. Okay. Okay, fine. Ashish, I want help from your end. Okay. I need to know the purpose of Excel Ribbon and how can I customize it. So what will be the steps you are going to guide me?
+
+B: Okay, first you have. You can click on any tab. Okay, what's the purpose of Excel Ribbon? Ribbon. Sir, the purpose of Excel Ribbon is we can customize our ribbon. Okay, Ribbon is nothing. It is on the. You know what we are seeing on the top? Home tab, data tab, format tab or whatever we are seeing on the top that is a whole ribbon. Okay. And we can, how we can customize, we can just click on any tab, right click. Then at the bottom we can see the customize Ribbon in customized Ribbon we can, on the developer tab, we can, you know, create our own tab in which we are putting all the important features which are used, which we are using frequently. Like we can put clear format, this, print this, color.
+
+A: Okay, well, so tell me. I want to protect my workbook in Excel. So what methods am I going to use.
+
+B: The protection? Okay, sir, actually I have used protection but I haven't used recently. But I do remember that we can protect a range of cell. We can protect the worksheet, we can protect the workbook. We just have to go on the data tab, I think. Okay, okay, you think.
+
+A: I mean how much sure you are about it.
+
+B: Sir, I haven't used recently actually.
+
+A: Okay, okay, no, no worries. Okay Ashish, let's come to SQL again. So Ashish, tell me how to drop a table in SQL and what are the potential consequences for that?
+
+B: Okay sir, first of all, if we are using a drop command, it means the entire table will be gone. Okay. The customers, the. I mean the rows, the table structure, entire table or database. We can draw our database also so that table or database will be gone from our SQL. Okay, so we can just write drop table and then the table name this and we can use if exist. Also if exist will basically check if the table is exist in our database or not.
+
+A: Okay. Okay, so tell me what is the difference between an inner join and outer join in squeeze.
+
+B: Okay, so let me give you an example.
+
+A: Sure.
+
+B: Okay, suppose I have two tables customer and order. If I have. If I have to see if I am interested in only those customers who actually placed Order. Okay. I can achieve this using the inner join. So inner join will basically will fetch all the records from the left table and all the records from the right table matches record all the matching record from the left table and all the matching record from the right table, that is inner join.
+
+A: Okay?
+
+B: And the outer join will be fetch all the records from the left table and all the records from the right table whether the rows are matched or not. Okay?
+
+A: Okay, fine. So have you ever used row number function in SQL?
+
+B: Yes, sir. Row number is a window function. Okay. And we have to use row number function with over clause in over. We can put some arguments like partition by this column, order by this column and yes, that, that's about row number function.
+
+A: Okay, So I have been working in SQL and I mean can I get some purpose of why do we use truncate table statement.
+
+B: Or the purpose of.
+
+A: The truncate statement Table table statement?
+
+B: If you have to remove all the records from our table but not the structure the you want the structure you want. I mean, if you want to delete all the records from a table, you can go for the truncate statement. Truncate statement will delete all the records from the table, but not the structure. Okay? And we can achieve this also by using and delete command. Okay, but delete command will take more time, okay, because it will delete row by row, row by row. Basically, truncate will remove all the records from a table. Oh.
+
+A: So Ashish, my question is, I mean I want to create a temporary table in SQL. Okay, so how do I do that? And why do. I mean, what's the purpose of that? Why should I create a temporary table.
+
+B: In SQL you can create a temporary table and basically a temporary table stores the temporary data within a session or transaction. Okay? Okay, you can create a temporary table like create temporary table and after the temporary table you have to mention the temporary table name. Okay. Then you can write some below query whatever you want to store on that temporary table. And you can use the temporary table wherever you want in our queries, but within a session, once a session will end, that temporary table will be gone.
+
+A: Okay, so coming back to PowerBI. Okay, Ashish, tell me, how do you schedule a data set refresh in PowerBI service? Scheduling of a data set refresh? Yes.
+
+B: How do we schedule in Power BI.
+
+A: Service a data set refresh in Power BI service?
+
+B: What we can do, we can just go to the data set in power BI service, then we can select the scheduled refresh and by selecting the schedule refresh, we can Set we want to schedule our refresh daily, on weekly purpose. We can do this by going to the data set in Power BI service.
+
+A: So can you explain me the difference between a Power BI Pro and Power BI Premium licenses?
+
+B: Yes, sir.
+
+A: Yes, please.
+
+B: Actually, Power BI in Power BI Pro we can share our report, share our report to other users. Also we can publish our report to the web, then we can share the link and basically the difference is that in Power BI Pro, the individual license that allows sharing, collaboration and access to the Power bi. Okay, basically in Power BI Pro we can do everything. But the thing is that I think in Power BI Pro we cannot handle the large data set. For that we have to go for the Power BI Premium. Sir.
+
+A: Are you sure on that, Ashish?
+
+B: Sir, I'm not sure, but I, you know, I read some, I read about this and.
+
+A: Okay, fine, not an issue. Well, coming to the next question. I mean what is Power BI desktop optimized for?
+
+B: Optimized for.
+
+A: How does it differ from Power BI service?
+
+B: A Power BI desktop optimized for creating and designing report with full functionality on our local machine, sir. Okay, and talking about Power BI Service, cloud based platform for sharing, collaborating and accessing report online. It also supports scheduled refresh and dashboard creation.
+
+A: Ashish, my last question. What do you understand by the term tax?
+
+B: DEX stand for data analysis expression. And we can. Sir, there are so many decks available actually in Power bi like text. Text functions. DAX is a basically language. Okay, whatever we are doing in Excel then in Excel people are calling like formulas and functions. So we just have. We are using those functions and formulas in Power BI service. Okay, but the thing is that we cannot see the output at, you know, during writing the code. So we have to first create a dax. Then we have to use the text in. In any visual to check if it is correct or wrong. Okay, so DAX stands for data analysis expression. And there are many decks available like text functions, filter functions. In filter functions we have all, all accept filter. In text function we have the common one left, right, mid, upper, lower and time. There are some time intelligence date YTD date QTD quarter to date. Okay, and there are some more like logical if I think if's not there in Power BI service if is available in Microsoft Excel. But there is one function called switch. If we have multiple condition we can use switch function and switch. We just have to put first expression like we can put true and then we have to. If this is this, then give this. If this is this, then give this.
+
+A: Well, super. So with that Ashish I would like to know, where do you see yourself in the next five years?
+
+B: I will see in a senior position. Actually, my end goal is I, I want to get a job as a data scientist.
+
+A: Okay.
+
+B: So I will see my. Myself in a senior position in the next five years.
+
+A: Okay, fine. So why should I, I mean, why should the company hire you? I mean, what makes you stand out from others?
+
+B: So you should hire me because I'm very passionate about data analytics and I'm continuously learning all the things. Like I'm learning some new things even though I have learned all the, you know, all of the. Even though I have learned all the things about the tools which are the common one. But I'm enhancing my learning by learning something new. So that's why you can hire me, sir. I am a very disciplined person. I. Whatever. If you will give me some task and I think like I have to do this, then I will do where I will. It doesn't matter how much time it will take or how many challenges I have to face, I will complete your task. So that's why you can hire me, sir.
+
+A: So don't you think that, I mean, how much time it will take, as you said now, right now, so it will disturb your work life balance, you know?
+
+B: Yes, I'm trying, I will try to manage my work life balance. Okay. And I will, as I told, I will prioritize my workload to maintain a sustainable balance.
+
+A: Fine. Superb. So with that, our HR team will get back to you on this. Okay? The feedback. Okay? So just hold on and wait for the right time. So, Ashish, with that, thank you, thank you for joining today's podcast. Have a great day.
+
+B: Thank you so much, sir. Yep.","**Candidate Performance Summary:**
+
+The candidate, Ashish, demonstrated a strong understanding of the technical aspects of the data analyst role. His knowledge of SQL, Power BI, and Excel was evident in his responses to the interviewer's questions. He was able to explain complex concepts and processes in a clear and understandable manner, showing his proficiency in these tools. He also showcased his experience in handling large datasets and the challenges that come with it, such as data cleaning.
+
+However, Ashish's responses to some of the questions were a bit vague and lacked the level of detail that might be expected from a candidate applying for a data analyst position. For instance, his explanation of the difference between Power BI Pro and Power BI Premium was not entirely accurate, and he seemed unsure about how to protect a workbook in Excel. Additionally, his response to the question about his future goals was somewhat generic and did not provide a clear picture of his career aspirations.
+
+In terms of soft skills, Ashish showed good problem-solving abilities and a willingness to take on challenges. He also demonstrated an ability to prioritize tasks and manage his workload effectively. However, his responses to the questions about teamwork and ethical data use were not very detailed, suggesting that these are areas he could improve on.
+
+**Strengths:**
+- Strong technical knowledge in SQL, Power BI, and Excel
+- Good problem-solving skills
+- Ability to handle large datasets and perform data cleaning
+
+**Areas of Improvement:**
+- Needs to provide more detailed and accurate responses to technical questions
+- Needs to articulate career goals more clearly
+- Could improve on teamwork and ethical data use
+
+**Scorecard:**
+- Communication: 7/10
+- Domain Knowledge: 8/10
+- Confidence & Clarity: 7/10
+- Soft Skills: 6/10
+- Overall Score: 7/10
+
+**Recommendation:** Consider — Ashish has strong technical skills and a good understanding of the role of a data analyst. However, he could benefit from further development in certain areas, such as providing more detailed responses to technical questions and improving his teamwork skills. His willingness to learn and take on challenges is a positive trait, and with some additional training and guidance, he could potentially be a strong addition to the team.","You are an expert interviewer evaluator.
+
+Analyze the following interview transcript in-depth and assess the candidate's performance based on the following categories:
+- Communication Skills
+- Domain Knowledge
+- Confidence and Clarity
+- Soft Skills (Teamwork, Leadership, Adaptability, etc.)
+
+Your output should include:
+1. A well-written summary of the candidate's performance (at least 3 detailed paragraphs)
+2. A bullet point list of strengths and areas of improvement
+3. A scorecard with ratings out of 10 for each category
+4. An overall recommendation (Hire, Consider, or Reject) with justification
+
+Format:
+**Candidate Performance Summary:**
+[Full detailed summary]
+
+**Strengths:**
+- [Strength 1]
+- [Strength 2]
+
+**Areas of Improvement:**
+- [Weakness 1]
+- [Weakness 2]
+
+**Scorecard:**
+- Communication: X/10
+- Domain Knowledge: X/10
+- Confidence & Clarity: X/10
+- Soft Skills: X/10
+- Overall Score: X/10
+
+**Recommendation:** [Hire / Consider / Reject] — [Justify in 1-2 sentences]"
+2025-08-12T14:42:52.236476,Data Analyst Freshers Mock Interview Learn Data Analytics from Talentele dataanalytics.mp3,Behavioral Analysis,"A: Here we go. Hey. Hi Ashish, how are you?
+
+B: I'm good sir. What about you?
+
+A: Yes, I'm also doing great, thank you for asking. Ashish. So as I can see your profile, you have applied for the position of data analyst as a fresher. Okay. So Ashish, can you please walk me through your profile once?
+
+B: Sure sir. First of all, thank you for giving me this opportunity. From Dehradun, I have completed my graduation Bachelors of Commerce. I have three years of work experience in social media marketing. Regarding my current skills, I am proficient in SQL, Power bi, Dax, Advanced Excel and I have created many projects using these tools on my own. Actually they are not guided projects. Also like recently I have worked on supply chain analysis. On that project I have solved a business problem and I created a beautiful dashboard on Power bi. Apart from this, currently I am learning Python for Autumn for automating tasks and I'm learning some libraries which are used for data analysis. This is, that's all about. Okay, okay.
+
+A: So Ashish, while you were working with this, all these data sets and all. Okay, so at that time what, you know, what challenges did you face using last data set? I mean how did you approach it and what was the outcome? You said that you were working on multiple projects, right?
+
+B: Yes.
+
+A: So what challenges did you face while using large data sets?
+
+B: Actually the most challenging part is only the clean part. Okay. When we have to deal with some null values, missing values, we have to remove some columns. So we have to think like very deeply which column is required for our analysis and which column are not. So the cleaning part is most challenging in my previous project, sir.
+
+A: Okay. Okay. So. So Ashish, tell me, I mean how did you prioritize your work when you were working with multiple projects and competing red lines? So can you, can you just give me a real time example? How did you do that?
+
+B: Yes sir, I prioritize my work, I prioritize my workload to maintain a sustainable balance. Like whatever I think it is most important. Okay. There, then I will do, I will complete that task first, then I will move to my next task. Okay. I will basically I will divide a big task into subsets of. Okay.
+
+A: Okay.
+
+B: Yes. So like I, whatever I have to do first I will complete that task, then I will move to my next task. That's how I can manage. Okay.
+
+A: Okay. Well, well Ashish, so as you were associated with multiple projects, so how did you, you know, analyze, ensure that the data you analyze is used ethically, especially when you're dealing with sensitive information.
+
+B: I can put some restriction to my Data okay. That the industry people can see whatever is going on with this data. Okay. And I will put some restrictions so the other person cannot see the data and whatever I'm doing with the data.
+
+A: So as tell me, how would you rate yourself on a scale of 10 when it comes to Excel?
+
+B: I would give seven.
+
+A: So, seven. Okay, so let's get started.
+
+B: Sure, sir.
+
+A: Okay, so Ashish, tell me the purpose of Excel data model and how you can enable it.
+
+B: Okay, sir, suppose I have a data, okay. In my Excel file I have multiple tables. What I can do, I can just create a pivot table and on the pivot table there's an option add this data to a data model. Okay? Then my data will be stored in power pivot. Okay? And in power period, I can do the data modeling. I can connect all the dimension table to the effect table and basically I will do, I can do anything, whatever I'm doing in power bi. Okay, I can connect all the tables and dimension table and fact table and that's how I can enable power pivot in Excel and I can do the modeling part in Excel with the help of power pivot.
+
+A: So as you were associated with multiple projects, Ashish, can you tell me, have you come across the, you know the term or the function called concat and text join in Excel? May I know what it's used?
+
+B: It is basically, you know, combine two or more strings in a cell. We, we can use concat to combine two string in one cell.
+
+A: Okay. Okay.
+
+B: And the text join is basically text join do the same work as concat. Okay. And text join we can put a separator. Okay. Like we have to combine with. We have to combine this text using a separator. So we can mention the separator it is comma or space. That's how we can use concat and text join. Also what we can do the. There is one more option. We can just write equal to our cell. Then we can refer to a cell. Then we have to put and, and, and, and sign. Then after, after end we can put another cell. Also we can join a space. If you join a space. So we can put some inverted comma. That's how we can basically concat is used to combine two or more string.
+
+A: Got you, got you. Okay, so tell me Ashish, how would you create a dynamic named range in Excel?
+
+B: Okay, first we have to select the cells. Okay, first we have to select the cells. Then we have to go to the data tab. In the data tab we can go in the name manager. Okay, so in, in the main name manager. There is a feature in Excel we have to go to the name manager and we can create a. You know, we have to create a name for the selected cells. Okay. And we can use that name range wherever we want in our calculation or chart. I mean visuals.
+
+A: Okay. Okay. Okay, fine. Ashish, I want help from your end. Okay. I need to know the purpose of Excel Ribbon and how can I customize it. So what will be the steps you are going to guide me?
+
+B: Okay, first you have. You can click on any tab. Okay, what's the purpose of Excel Ribbon? Ribbon. Sir, the purpose of Excel Ribbon is we can customize our ribbon. Okay, Ribbon is nothing. It is on the. You know what we are seeing on the top? Home tab, data tab, format tab or whatever we are seeing on the top that is a whole ribbon. Okay. And we can, how we can customize, we can just click on any tab, right click. Then at the bottom we can see the customize Ribbon in customized Ribbon we can, on the developer tab, we can, you know, create our own tab in which we are putting all the important features which are used, which we are using frequently. Like we can put clear format, this, print this, color.
+
+A: Okay, well, so tell me. I want to protect my workbook in Excel. So what methods am I going to use.
+
+B: The protection? Okay, sir, actually I have used protection but I haven't used recently. But I do remember that we can protect a range of cell. We can protect the worksheet, we can protect the workbook. We just have to go on the data tab, I think. Okay, okay, you think.
+
+A: I mean how much sure you are about it.
+
+B: Sir, I haven't used recently actually.
+
+A: Okay, okay, no, no worries. Okay Ashish, let's come to SQL again. So Ashish, tell me how to drop a table in SQL and what are the potential consequences for that?
+
+B: Okay sir, first of all, if we are using a drop command, it means the entire table will be gone. Okay. The customers, the. I mean the rows, the table structure, entire table or database. We can draw our database also so that table or database will be gone from our SQL. Okay, so we can just write drop table and then the table name this and we can use if exist. Also if exist will basically check if the table is exist in our database or not.
+
+A: Okay. Okay, so tell me what is the difference between an inner join and outer join in squeeze.
+
+B: Okay, so let me give you an example.
+
+A: Sure.
+
+B: Okay, suppose I have two tables customer and order. If I have. If I have to see if I am interested in only those customers who actually placed Order. Okay. I can achieve this using the inner join. So inner join will basically will fetch all the records from the left table and all the records from the right table matches record all the matching record from the left table and all the matching record from the right table, that is inner join.
+
+A: Okay?
+
+B: And the outer join will be fetch all the records from the left table and all the records from the right table whether the rows are matched or not. Okay?
+
+A: Okay, fine. So have you ever used row number function in SQL?
+
+B: Yes, sir. Row number is a window function. Okay. And we have to use row number function with over clause in over. We can put some arguments like partition by this column, order by this column and yes, that, that's about row number function.
+
+A: Okay, So I have been working in SQL and I mean can I get some purpose of why do we use truncate table statement.
+
+B: Or the purpose of.
+
+A: The truncate statement Table table statement?
+
+B: If you have to remove all the records from our table but not the structure the you want the structure you want. I mean, if you want to delete all the records from a table, you can go for the truncate statement. Truncate statement will delete all the records from the table, but not the structure. Okay? And we can achieve this also by using and delete command. Okay, but delete command will take more time, okay, because it will delete row by row, row by row. Basically, truncate will remove all the records from a table. Oh.
+
+A: So Ashish, my question is, I mean I want to create a temporary table in SQL. Okay, so how do I do that? And why do. I mean, what's the purpose of that? Why should I create a temporary table.
+
+B: In SQL you can create a temporary table and basically a temporary table stores the temporary data within a session or transaction. Okay? Okay, you can create a temporary table like create temporary table and after the temporary table you have to mention the temporary table name. Okay. Then you can write some below query whatever you want to store on that temporary table. And you can use the temporary table wherever you want in our queries, but within a session, once a session will end, that temporary table will be gone.
+
+A: Okay, so coming back to PowerBI. Okay, Ashish, tell me, how do you schedule a data set refresh in PowerBI service? Scheduling of a data set refresh? Yes.
+
+B: How do we schedule in Power BI.
+
+A: Service a data set refresh in Power BI service?
+
+B: What we can do, we can just go to the data set in power BI service, then we can select the scheduled refresh and by selecting the schedule refresh, we can Set we want to schedule our refresh daily, on weekly purpose. We can do this by going to the data set in Power BI service.
+
+A: So can you explain me the difference between a Power BI Pro and Power BI Premium licenses?
+
+B: Yes, sir.
+
+A: Yes, please.
+
+B: Actually, Power BI in Power BI Pro we can share our report, share our report to other users. Also we can publish our report to the web, then we can share the link and basically the difference is that in Power BI Pro, the individual license that allows sharing, collaboration and access to the Power bi. Okay, basically in Power BI Pro we can do everything. But the thing is that I think in Power BI Pro we cannot handle the large data set. For that we have to go for the Power BI Premium. Sir.
+
+A: Are you sure on that, Ashish?
+
+B: Sir, I'm not sure, but I, you know, I read some, I read about this and.
+
+A: Okay, fine, not an issue. Well, coming to the next question. I mean what is Power BI desktop optimized for?
+
+B: Optimized for.
+
+A: How does it differ from Power BI service?
+
+B: A Power BI desktop optimized for creating and designing report with full functionality on our local machine, sir. Okay, and talking about Power BI Service, cloud based platform for sharing, collaborating and accessing report online. It also supports scheduled refresh and dashboard creation.
+
+A: Ashish, my last question. What do you understand by the term tax?
+
+B: DEX stand for data analysis expression. And we can. Sir, there are so many decks available actually in Power bi like text. Text functions. DAX is a basically language. Okay, whatever we are doing in Excel then in Excel people are calling like formulas and functions. So we just have. We are using those functions and formulas in Power BI service. Okay, but the thing is that we cannot see the output at, you know, during writing the code. So we have to first create a dax. Then we have to use the text in. In any visual to check if it is correct or wrong. Okay, so DAX stands for data analysis expression. And there are many decks available like text functions, filter functions. In filter functions we have all, all accept filter. In text function we have the common one left, right, mid, upper, lower and time. There are some time intelligence date YTD date QTD quarter to date. Okay, and there are some more like logical if I think if's not there in Power BI service if is available in Microsoft Excel. But there is one function called switch. If we have multiple condition we can use switch function and switch. We just have to put first expression like we can put true and then we have to. If this is this, then give this. If this is this, then give this.
+
+A: Well, super. So with that Ashish I would like to know, where do you see yourself in the next five years?
+
+B: I will see in a senior position. Actually, my end goal is I, I want to get a job as a data scientist.
+
+A: Okay.
+
+B: So I will see my. Myself in a senior position in the next five years.
+
+A: Okay, fine. So why should I, I mean, why should the company hire you? I mean, what makes you stand out from others?
+
+B: So you should hire me because I'm very passionate about data analytics and I'm continuously learning all the things. Like I'm learning some new things even though I have learned all the, you know, all of the. Even though I have learned all the things about the tools which are the common one. But I'm enhancing my learning by learning something new. So that's why you can hire me, sir. I am a very disciplined person. I. Whatever. If you will give me some task and I think like I have to do this, then I will do where I will. It doesn't matter how much time it will take or how many challenges I have to face, I will complete your task. So that's why you can hire me, sir.
+
+A: So don't you think that, I mean, how much time it will take, as you said now, right now, so it will disturb your work life balance, you know?
+
+B: Yes, I'm trying, I will try to manage my work life balance. Okay. And I will, as I told, I will prioritize my workload to maintain a sustainable balance.
+
+A: Fine. Superb. So with that, our HR team will get back to you on this. Okay? The feedback. Okay? So just hold on and wait for the right time. So, Ashish, with that, thank you, thank you for joining today's podcast. Have a great day.
+
+B: Thank you so much, sir. Yep.","**Behavioral Analysis:**
+
+The candidate, Ashish, displays a high level of confidence and composure throughout the interview. He is articulate and thorough in his responses, demonstrating a deep understanding of his field. He is not hesitant to share his knowledge and experiences, which suggests a high level of self-assuredness. This is particularly evident in his detailed explanations of technical concepts and his ability to provide real-life examples from his previous projects.
+
+In terms of leadership and ownership, Ashish shows a strong sense of responsibility and initiative. He mentions that he prioritizes his workload to maintain a sustainable balance and completes tasks regardless of the time and challenges involved. This indicates a strong work ethic and a commitment to delivering results. However, his statement about completing tasks regardless of the time it takes could potentially indicate a lack of work-life balance.
+
+Ashish demonstrates adaptability and openness to feedback when he acknowledges his uncertainty about certain topics. Instead of attempting to bluff his way through, he admits when he is unsure, indicating a willingness to learn and improve. His problem-solving and critical thinking skills are evident in his approach to handling large data sets and dealing with challenges in his previous projects.
+
+In terms of team collaboration and communication, Ashish does not provide specific examples of working in a team environment. However, his clear and effective communication skills, as demonstrated throughout the interview, suggest that he would likely excel in a team setting.
+
+**Behavioral Strengths:**
+- Confidence and Composure: Ashish is articulate and thorough in his responses, demonstrating a deep understanding of his field.
+- Problem-solving and Critical Thinking: Ashish's approach to handling large data sets and dealing with challenges in his previous projects shows his ability to think critically and solve problems.
+
+**Concerns or Red Flags:**
+- Potential Lack of Work-Life Balance: Ashish's statement about completing tasks regardless of the time it takes could potentially indicate a lack of work-life balance.
+
+**Observed Behavioral Patterns:**
+- Ashish tends to provide detailed and thorough responses, indicating a deep understanding of his field.
+- He admits when he is unsure about something, showing a willingness to learn and improve.
+- He demonstrates a strong work ethic and a commitment to delivering results.","You are a behavioral analysis expert specializing in professional interviews.
+
+Read the following transcript and provide a deep behavioral assessment of the candidate. Focus on:
+- Confidence and composure
+- Leadership and ownership
+- Adaptability and openness to feedback
+- Problem-solving and critical thinking
+- Team collaboration and communication
+
+Output Format:
+**Behavioral Analysis:**
+[3-4 detailed paragraphs highlighting key behavioral traits]
+
+**Behavioral Strengths:**
+- [Trait + example]
+- [Trait + example]
+
+**Concerns or Red Flags:**
+- [Trait + explanation]
+
+**Observed Behavioral Patterns:**
+[List any repeat behaviors, mindset patterns, or attitudes reflected in responses]"
+2025-08-12T14:45:26.291819,https://www.youtube.com/watch?v=2rWjCZuxtHE,Technical Depth,"A: Here we go. Hey. Hi Ashish, how are you?
+
+B: I'm good sir. What about you?
+
+A: Yes, I'm also doing great. Thank you for asking, Ashish. So as I can see your profile, you have applied for the position of data analyst as a fresher. Okay. So Ashish, can you please walk me through your profile once?
+
+B: Sure sir. First of all, thank you for giving me this opportunity. I'm Ashish Rawat from Dehradun. I have completed my graduation Bachelors of Commerce. I have three years of work experience in social media marketing. Regarding my current skills, I am proficient in SQL, Power bi, Dax, Advanced Excel and I have created many projects using these tools on my own. Actually they are not guided projects. Also like recently I have worked on supply chain analysis. On that project I have solved a business problem and I created a beautiful dashboard on Power Bi. Apart from this, currently I am learning Python for Autumn for automating tasks and I'm learning some libraries which are used for data analysis. That's, that's all about.
+
+A: Okay, so Ashish, while you were working with this, all these data sets and all. Okay, so at that time what, you know, what challenges did you face using last data set? I mean, how did you approach it and what was the outcome? You said that you were working on multiple projects, right? Yes. So what challenges did you face while using large data sets?
+
+B: Actually the most challenging part is only the clean part. Okay. When we have to deal with some null values, missing values, we have to remove some columns. So we have to think like very deeply which column is required for our analysis and which column are not. So the cleaning part is most challenging in my previous project, sir.
+
+A: Okay. Okay, super. So Ashish, tell me, I mean, how did you prioritize your work when you were working with multiple projects and competing red lines? So can you, can you just give me a real time example? How did you do that?
+
+B: Yes sir, I prioritize my work. I prioritize my workload to maintain a sustainable balance. Like whatever I think it is most important. Okay. There, then I will do, I will complete that task first, then I will move to my next task. Okay. I will basically I will divide a big task into subsets of. Okay.
+
+A: Okay.
+
+B: Yes. So like I, whatever I have to do first I will complete that task, then I will move to my next task. That's how I can manage. Okay.
+
+A: Okay. Well, well Ashish, so as you were associated with multiple projects, so how did you, you know, analyze, ensure that the data you analyze is used ethically, especially when you're dealing with sensitive information.
+
+B: I can put some restriction to my data. Okay. That the industry people can see whatever is going on with this data. Okay. And I will put some restrictions so the other person cannot see the data and whatever I'm doing with the data.
+
+A: So as tell me, how would you rate yourself on a scale of 10 when it comes to Excel?
+
+B: I would give seven.
+
+A: So, seven. Okay, so let's get started.
+
+B: Sure, sir.
+
+A: Okay, so Ashish, tell me the purpose of Excel data model and how you can enable it.
+
+B: Okay, sir, suppose I have a data. Okay. In my Excel file I have multiple tables. What I can do, I can just create a pivot table and on the pivot table there's an option. Add this data to a data model. Okay? Then my data will be stored in power pivot. Okay. And in power period, I can do the data modeling. I can connect all the dimension table to the effect table and basically I will do. I can do anything, whatever I'm doing in power bi. Okay. I can connect all the tables and dimension table and fact table and that's how I can enable power pivot in Excel and I can do the modeling part in Excel with the help of PowerPivot.
+
+A: As you were associated with multiple projects. Ashish, can you tell me, have you come across the term or the function called concat and text join in Excel? May I know what it's used?
+
+B: It is basically, you know, combine two or more strings in a cell. We, we can use concat to combine two string in one cell.
+
+A: Okay.
+
+B: Okay. And the text join is basically text join do the same work as concat. Okay. In text join we can put a separator. Okay, like we have to combine with. We have to combine this text using a separator. So we can mention the separator, it is comma or space. That's how we can use concat and text join. Also what we can do the. There is one more option. We can just write equal to our cell. Then we can refer to a cell. Then we have to put and, and, and, and sign. Then after, after end we can put another cell. Also we can join a space. If you join a space. So we can put some inverted comma. That's how we can basically concat is used to combine two or more string.
+
+A: Got you, got it. Okay, so tell me Ashish, how would you create a dynamic named range in Excel?
+
+B: Okay, first we have to select the cells. Okay, first we have to select the cells. Then we have to go to the data tab. In the data tab we can go in the name manager. Okay. So in. In the main name manager there is a feature in Excel we have to go to the name manager and we can create, you know, we have to create a name for the selected cells. Okay. And we can use that name range wherever we want in our calculation or chart. I mean visuals.
+
+A: Okay. Okay. Okay, fine. Ashish, I want help from your end. Okay. I need to know the purpose of Excel Ribbon and how can I customize it. So what will be the steps you are going to guide me?
+
+B: Okay, first you have. You can click on any tab. Okay.
+
+A: What's the purpose of Excel Ribbon?
+
+B: Ribbon. Sir, the purpose of Excel Ribbon is we can customize our ribbon. Okay, Ribbon is nothing. It is on the. You know what we are seeing on the top? Home tab, data tab, format tab or whatever we are seeing on the top that is a whole ribbon. Okay. And we can, how we can customize, we can just click on any tab, right click. Then at the bottom we can see the customize Ribbon in customized Ribbon we can, on the developer tab, we can, you know, create our own tab in which we are putting all the important features which are used, which we are using frequently. Like we can put clear format, this, paint this color.
+
+A: Okay, well, so tell me, I want to protect my workbook in Excel. So what methods am I going to use.
+
+B: The protection? Okay, sir, actually I have used protection but I haven't used recently. But I do remember that we can protect a range of cell. We can protect the worksheet, we can protect the workbook. We just have to go on the data tab, I think.
+
+A: Okay, okay, you think, I mean how much sure you are about it.
+
+B: Sir, I haven't used recently actually. Okay, okay.
+
+A: No, no worries. Okay Ashish, let's come to SQL again. So Ashish, tell me how to drop a table in SQL and what are the potential consequences for that?
+
+B: Okay sir, first of all, if we are using a drop command, it means the entire table will be gone. Okay. The customers, the. I mean the rows, the table structure, entire table or database. We can draw a database also so that table or database will be gone from our SQL. Okay, so we can just write drop table and then the table name this and we can use if exist. Also if exist will basically check if the table is exist in our database or not.
+
+A: Okay. Okay, so tell me what is the difference between an inner join and outer join in square.
+
+B: Okay, so let me give you an example.
+
+A: Sure.
+
+B: Okay, suppose I have two tables customer and order if I have. If I have to see if I am interested in only those customers who Actually placed order. Okay. I can achieve this using the inner join. So inner join will basically will fetch all the records from the left table and all the records from the right table. The matches record all the matching record from the left table and all the matching record from the right table, that is inner join. Okay. And the outer join will be fetch all the records from the left table and all the records from the right table whether the rows are matched or not.
+
+A: Okay? Okay, fine. So have you ever used row number function in SQL?
+
+B: Yes, sir. Row number is a window function. Okay. And we have to use row number function with over clause in over. We can put some arguments like partition by this column, order by this column and yes, that's about row number function.
+
+A: Okay, So I have been working in SQL and I mean, can I get some purpose of why do we use truncate table statement.
+
+B: Or the purpose of.
+
+A: The truncate statement table table statement?
+
+B: If you have to remove all the records from our table but not the structure the you want the structure you want. I mean, if you want to delete all the records from a table, you can go for the truncate statement. Truncate statement will delete all the records from the table, but not the structure. Okay? And we can achieve this also by using and delete command. Okay, but delete command will take more time, okay, because it will delete row.
+
+A: By row, row by row.
+
+B: Basically, truncate will remove all the records from a table. Oh.
+
+A: So Ashish, my question is, I mean I want to create a temporary table in SQL. Okay, so how do I do that? And why do. I mean, what's the purpose of that? Why should I create a temporary table in SQL?
+
+B: You can create a temporary table and basically a temporary table stores the temporary data within a session or transaction. Okay? Okay, you can create a temporary table like create temporary table and after the temporary table you have to mention the temporary table name. Okay. Then you can write some below query whatever you want to store on that temporary table. And you can use the temporary table wherever you want in our queries, but within a session, once a session will end, that temporary table will be gone.
+
+A: Okay, so coming back to power bi. Okay, Ashish, tell me, how do you schedule a data set refresh in Power BI service? Scheduling of a data set refresh? Yes.
+
+B: How do we schedule in Power BI.
+
+A: Service a data set refresh in power BI service?
+
+B: What we can do, we can just go to the data set in power BI service, then we can select the scheduled refresh and by selecting the schedule refresh we can set. We want to schedule our refresh daily, on weekly purpose. We can do this by going to the data set in Power BI service.
+
+A: So can you explain me the difference between a Power BI Pro and Power BI Premium licenses?
+
+B: Yes, sir. Yes, please. Actually, Power BI in Power BI Pro we can share our report, share our report to other users. Also we can publish our report to the web. Then we can share the link and basically the difference is that in Power BI Pro, the individual license that allows sharing, collaboration and access to the Power bi. Okay, basically in Power BI Pro we can do everything. But the thing is that I think in Power BI Pro we cannot handle the large data set. For that we have to go for the Power BI Premium. Sir.
+
+A: Are you sure on that, Ashish?
+
+B: Sir, I'm not sure, but I, you know, I read some. I read about this and.
+
+A: Okay, fine, knowledge. Well, coming to the next question, I mean what is Power BI desktop optimized for?
+
+B: Optimized for.
+
+A: How does it differ from Power BI service?
+
+B: A Power BI desktop optimized for creating and designing report with full functionality on our local machine, Sir, Talking about Power BI Service, cloud based platform for sharing, collaborating and accessing report online. It also supports schedule, refresh and dashboard creation.
+
+A: Ashish, my last question. What do you understand by the term tax?
+
+B: DEX stand for data analysis expression. And we can. Sir, there are so many decks available actually in Power BI like text. Text functions. DAX is a basically language. Okay, whatever we are doing in Excel then in Excel people are calling like formulas and functions. So we just have. We are using those functions and formulas in Power BI service. Okay, but the thing is that we cannot see the output at, you know, during writing the code. So we have to first create a dax. Then we have to use the text in. In any visual to check if it is correct or wrong. Okay, so DAX stands for data analysis expression. And there are many decks available like text functions, filter functions. In filter functions we have all. All accept filter. In text function we have the common one left, right, mid, upper, lower and time. There are some time intelligence date YTD date QTD quarter to date. Okay, and there are some more like logical if I think if's not there in Power BI service. If is available in Microsoft Excel but there is one function called switch. If we have multiple condition we can use switch function and switch. We just have to put first expression like we can put true and then we have to. If this is this, then give this. If this is this then give this.
+
+A: Well, so with that Ashish, I would like to know, where do you see yourself in the next five years?
+
+B: I will see in a senior position. Actually, my end goal is I. I want to get a job as a data scientist.
+
+A: Okay.
+
+B: So I will see my. Myself in a senior position in the next five years.
+
+A: Okay, fine. So why should I, I mean, why should the company hire you? I mean, what makes you stand out from others?
+
+B: So you should hire me because I'm very passionate about data analytics and continuously learning all the things. Like, I'm learning some new things, even though I have learned all the, you know, all of the. Even though I have learned all the things about the tools which are the common one. But I'm enhancing my learning by learning something new. So that's why you can hire me, sir. I am a very disciplined person. I. Whatever. I. If you will give me some task and I think like, I have to do this, then I will do where I will. It doesn't matter how much time it will take or how many challenges I have to face, I will complete your task. So that's why you can hire me, sir.
+
+A: So don't you think that, I mean, how much time it will take, as you said now, right now, so it will disturb your work life balance. You know.
+
+B: I'm trying. I will try to manage my work life balance. Okay. And I will, as I told, I will prioritize my workload to maintain a sustainable balance.
+
+A: Fine. Superb. So with that, our HR team will get back to you on this. Okay? The feedback. Okay? So just hold on and wait for the right time. So, Ashish, with that, thank you. Thank you for joining today's podcast. Have a great day.
+
+B: Thank you so much, sir.
+
+A: Yep.","**Technical Assessment:**
+Ashish demonstrated a strong understanding of data analytics, SQL, Power BI, and Excel. His explanations of technical concepts were generally clear and detailed, showing a good grasp of the subject matter. He was able to explain the use of different SQL commands, the difference between inner and outer joins, and the purpose of the row number function. His explanation of how to create a temporary table in SQL and its purpose was particularly impressive.
+
+In terms of Power BI, Ashish was able to explain how to schedule a data set refresh in Power BI service, the difference between Power BI Pro and Power BI Premium licenses, and what Power BI desktop is optimized for. He also demonstrated a good understanding of DAX (Data Analysis Expressions) in Power BI.
+
+Ashish also showed proficiency in Excel, explaining the purpose of Excel data model, how to create a dynamic named range, and the purpose of Excel Ribbon. However, he seemed less confident when asked about protecting a workbook in Excel, indicating a potential area for improvement.
+
+**Technical Strengths:**
+- SQL Proficiency: Ashish demonstrated a strong understanding of SQL, explaining how to drop a table, the difference between inner and outer joins, and how to create a temporary table.
+- Power BI Knowledge: Ashish showed a good understanding of Power BI, explaining how to schedule a data set refresh, the difference between Power BI Pro and Power BI Premium licenses, and the use of DAX.
+
+**Technical Weaknesses or Gaps:**
+- Excel Knowledge: While Ashish demonstrated a good understanding of several Excel functions, he seemed less confident when asked about protecting a workbook, indicating a potential gap in his knowledge.
+
+**Tech Rating (out of 10):** 8/10
+**Recommendation:** Strong Technical Candidate — Ashish demonstrated a strong understanding of data analytics, SQL, and Power BI. He could improve his Excel skills, particularly in the area of workbook protection. However, his overall technical knowledge and ability to explain complex concepts clearly make him a strong candidate.","You are a senior technical interviewer.
+
+Evaluate the candidate's technical depth demonstrated in this interview transcript. Consider:
+- Clarity and depth of technical concepts explained
+- Problem-solving approach and accuracy
+- Practical knowledge and examples
+- Consistency in technical understanding
+
+Output Format:
+**Technical Assessment:**
+[3-4 detailed paragraphs with in-depth analysis of technical responses]
+
+**Technical Strengths:**
+- [Skill + example]
+- [Skill + example]
+
+**Technical Weaknesses or Gaps:**
+- [Area + reason]
+
+**Tech Rating (out of 10):** X/10
+**Recommendation:** [Strong / Moderate / Weak] Technical Candidate — [Optional comment]"
+2025-08-12T15:32:32.801653,Data Analyst Freshers Mock Interview Learn Data Analytics from Talentele dataanalytics.mp3,Technical Depth,"A: Here we go. Hey. Hi Ashish, how are you?
+
+B: I'm good sir. What about you?
+
+A: Yes, I'm also doing great, thank you for asking. Ashish. So as I can see your profile, you have applied for the position of data analyst as a fresher. Okay. So Ashish, can you please walk me through your profile once?
+
+B: Sure sir. First of all, thank you for giving me this opportunity. From Dehradun, I have completed my graduation Bachelors of Commerce. I have three years of work experience in social media marketing. Regarding my current skills, I am proficient in SQL, Power bi, Dax, Advanced Excel and I have created many projects using these tools on my own. Actually they are not guided projects. Also like recently I have worked on supply chain analysis. On that project I have solved a business problem and I created a beautiful dashboard on Power bi. Apart from this, currently I am learning Python for Autumn for automating tasks and I'm learning some libraries which are used for data analysis. This is, that's all about. Okay, okay.
+
+A: So Ashish, while you were working with this, all these data sets and all. Okay, so at that time what, you know, what challenges did you face using last data set? I mean how did you approach it and what was the outcome? You said that you were working on multiple projects, right?
+
+B: Yes.
+
+A: So what challenges did you face while using large data sets?
+
+B: Actually the most challenging part is only the clean part. Okay. When we have to deal with some null values, missing values, we have to remove some columns. So we have to think like very deeply which column is required for our analysis and which column are not. So the cleaning part is most challenging in my previous project, sir.
+
+A: Okay. Okay. So. So Ashish, tell me, I mean how did you prioritize your work when you were working with multiple projects and competing red lines? So can you, can you just give me a real time example? How did you do that?
+
+B: Yes sir, I prioritize my work, I prioritize my workload to maintain a sustainable balance. Like whatever I think it is most important. Okay. There, then I will do, I will complete that task first, then I will move to my next task. Okay. I will basically I will divide a big task into subsets of. Okay.
+
+A: Okay.
+
+B: Yes. So like I, whatever I have to do first I will complete that task, then I will move to my next task. That's how I can manage. Okay.
+
+A: Okay. Well, well Ashish, so as you were associated with multiple projects, so how did you, you know, analyze, ensure that the data you analyze is used ethically, especially when you're dealing with sensitive information.
+
+B: I can put some restriction to my Data okay. That the industry people can see whatever is going on with this data. Okay. And I will put some restrictions so the other person cannot see the data and whatever I'm doing with the data.
+
+A: So as tell me, how would you rate yourself on a scale of 10 when it comes to Excel?
+
+B: I would give seven.
+
+A: So, seven. Okay, so let's get started.
+
+B: Sure, sir.
+
+A: Okay, so Ashish, tell me the purpose of Excel data model and how you can enable it.
+
+B: Okay, sir, suppose I have a data, okay. In my Excel file I have multiple tables. What I can do, I can just create a pivot table and on the pivot table there's an option add this data to a data model. Okay? Then my data will be stored in power pivot. Okay? And in power period, I can do the data modeling. I can connect all the dimension table to the effect table and basically I will do, I can do anything, whatever I'm doing in power bi. Okay, I can connect all the tables and dimension table and fact table and that's how I can enable power pivot in Excel and I can do the modeling part in Excel with the help of power pivot.
+
+A: So as you were associated with multiple projects, Ashish, can you tell me, have you come across the, you know the term or the function called concat and text join in Excel? May I know what it's used?
+
+B: It is basically, you know, combine two or more strings in a cell. We, we can use concat to combine two string in one cell.
+
+A: Okay. Okay.
+
+B: And the text join is basically text join do the same work as concat. Okay. And text join we can put a separator. Okay. Like we have to combine with. We have to combine this text using a separator. So we can mention the separator it is comma or space. That's how we can use concat and text join. Also what we can do the. There is one more option. We can just write equal to our cell. Then we can refer to a cell. Then we have to put and, and, and, and sign. Then after, after end we can put another cell. Also we can join a space. If you join a space. So we can put some inverted comma. That's how we can basically concat is used to combine two or more string.
+
+A: Got you, got you. Okay, so tell me Ashish, how would you create a dynamic named range in Excel?
+
+B: Okay, first we have to select the cells. Okay, first we have to select the cells. Then we have to go to the data tab. In the data tab we can go in the name manager. Okay, so in, in the main name manager. There is a feature in Excel we have to go to the name manager and we can create a. You know, we have to create a name for the selected cells. Okay. And we can use that name range wherever we want in our calculation or chart. I mean visuals.
+
+A: Okay. Okay. Okay, fine. Ashish, I want help from your end. Okay. I need to know the purpose of Excel Ribbon and how can I customize it. So what will be the steps you are going to guide me?
+
+B: Okay, first you have. You can click on any tab. Okay, what's the purpose of Excel Ribbon? Ribbon. Sir, the purpose of Excel Ribbon is we can customize our ribbon. Okay, Ribbon is nothing. It is on the. You know what we are seeing on the top? Home tab, data tab, format tab or whatever we are seeing on the top that is a whole ribbon. Okay. And we can, how we can customize, we can just click on any tab, right click. Then at the bottom we can see the customize Ribbon in customized Ribbon we can, on the developer tab, we can, you know, create our own tab in which we are putting all the important features which are used, which we are using frequently. Like we can put clear format, this, print this, color.
+
+A: Okay, well, so tell me. I want to protect my workbook in Excel. So what methods am I going to use.
+
+B: The protection? Okay, sir, actually I have used protection but I haven't used recently. But I do remember that we can protect a range of cell. We can protect the worksheet, we can protect the workbook. We just have to go on the data tab, I think. Okay, okay, you think.
+
+A: I mean how much sure you are about it.
+
+B: Sir, I haven't used recently actually.
+
+A: Okay, okay, no, no worries. Okay Ashish, let's come to SQL again. So Ashish, tell me how to drop a table in SQL and what are the potential consequences for that?
+
+B: Okay sir, first of all, if we are using a drop command, it means the entire table will be gone. Okay. The customers, the. I mean the rows, the table structure, entire table or database. We can draw our database also so that table or database will be gone from our SQL. Okay, so we can just write drop table and then the table name this and we can use if exist. Also if exist will basically check if the table is exist in our database or not.
+
+A: Okay. Okay, so tell me what is the difference between an inner join and outer join in squeeze.
+
+B: Okay, so let me give you an example.
+
+A: Sure.
+
+B: Okay, suppose I have two tables customer and order. If I have. If I have to see if I am interested in only those customers who actually placed Order. Okay. I can achieve this using the inner join. So inner join will basically will fetch all the records from the left table and all the records from the right table matches record all the matching record from the left table and all the matching record from the right table, that is inner join.
+
+A: Okay?
+
+B: And the outer join will be fetch all the records from the left table and all the records from the right table whether the rows are matched or not. Okay?
+
+A: Okay, fine. So have you ever used row number function in SQL?
+
+B: Yes, sir. Row number is a window function. Okay. And we have to use row number function with over clause in over. We can put some arguments like partition by this column, order by this column and yes, that, that's about row number function.
+
+A: Okay, So I have been working in SQL and I mean can I get some purpose of why do we use truncate table statement.
+
+B: Or the purpose of.
+
+A: The truncate statement Table table statement?
+
+B: If you have to remove all the records from our table but not the structure the you want the structure you want. I mean, if you want to delete all the records from a table, you can go for the truncate statement. Truncate statement will delete all the records from the table, but not the structure. Okay? And we can achieve this also by using and delete command. Okay, but delete command will take more time, okay, because it will delete row by row, row by row. Basically, truncate will remove all the records from a table. Oh.
+
+A: So Ashish, my question is, I mean I want to create a temporary table in SQL. Okay, so how do I do that? And why do. I mean, what's the purpose of that? Why should I create a temporary table.
+
+B: In SQL you can create a temporary table and basically a temporary table stores the temporary data within a session or transaction. Okay? Okay, you can create a temporary table like create temporary table and after the temporary table you have to mention the temporary table name. Okay. Then you can write some below query whatever you want to store on that temporary table. And you can use the temporary table wherever you want in our queries, but within a session, once a session will end, that temporary table will be gone.
+
+A: Okay, so coming back to PowerBI. Okay, Ashish, tell me, how do you schedule a data set refresh in PowerBI service? Scheduling of a data set refresh? Yes.
+
+B: How do we schedule in Power BI.
+
+A: Service a data set refresh in Power BI service?
+
+B: What we can do, we can just go to the data set in power BI service, then we can select the scheduled refresh and by selecting the schedule refresh, we can Set we want to schedule our refresh daily, on weekly purpose. We can do this by going to the data set in Power BI service.
+
+A: So can you explain me the difference between a Power BI Pro and Power BI Premium licenses?
+
+B: Yes, sir.
+
+A: Yes, please.
+
+B: Actually, Power BI in Power BI Pro we can share our report, share our report to other users. Also we can publish our report to the web, then we can share the link and basically the difference is that in Power BI Pro, the individual license that allows sharing, collaboration and access to the Power bi. Okay, basically in Power BI Pro we can do everything. But the thing is that I think in Power BI Pro we cannot handle the large data set. For that we have to go for the Power BI Premium. Sir.
+
+A: Are you sure on that, Ashish?
+
+B: Sir, I'm not sure, but I, you know, I read some, I read about this and.
+
+A: Okay, fine, not an issue. Well, coming to the next question. I mean what is Power BI desktop optimized for?
+
+B: Optimized for.
+
+A: How does it differ from Power BI service?
+
+B: A Power BI desktop optimized for creating and designing report with full functionality on our local machine, sir. Okay, and talking about Power BI Service, cloud based platform for sharing, collaborating and accessing report online. It also supports scheduled refresh and dashboard creation.
+
+A: Ashish, my last question. What do you understand by the term tax?
+
+B: DEX stand for data analysis expression. And we can. Sir, there are so many decks available actually in Power bi like text. Text functions. DAX is a basically language. Okay, whatever we are doing in Excel then in Excel people are calling like formulas and functions. So we just have. We are using those functions and formulas in Power BI service. Okay, but the thing is that we cannot see the output at, you know, during writing the code. So we have to first create a dax. Then we have to use the text in. In any visual to check if it is correct or wrong. Okay, so DAX stands for data analysis expression. And there are many decks available like text functions, filter functions. In filter functions we have all, all accept filter. In text function we have the common one left, right, mid, upper, lower and time. There are some time intelligence date YTD date QTD quarter to date. Okay, and there are some more like logical if I think if's not there in Power BI service if is available in Microsoft Excel. But there is one function called switch. If we have multiple condition we can use switch function and switch. We just have to put first expression like we can put true and then we have to. If this is this, then give this. If this is this, then give this.
+
+A: Well, super. So with that Ashish I would like to know, where do you see yourself in the next five years?
+
+B: I will see in a senior position. Actually, my end goal is I, I want to get a job as a data scientist.
+
+A: Okay.
+
+B: So I will see my. Myself in a senior position in the next five years.
+
+A: Okay, fine. So why should I, I mean, why should the company hire you? I mean, what makes you stand out from others?
+
+B: So you should hire me because I'm very passionate about data analytics and I'm continuously learning all the things. Like I'm learning some new things even though I have learned all the, you know, all of the. Even though I have learned all the things about the tools which are the common one. But I'm enhancing my learning by learning something new. So that's why you can hire me, sir. I am a very disciplined person. I. Whatever. If you will give me some task and I think like I have to do this, then I will do where I will. It doesn't matter how much time it will take or how many challenges I have to face, I will complete your task. So that's why you can hire me, sir.
+
+A: So don't you think that, I mean, how much time it will take, as you said now, right now, so it will disturb your work life balance, you know?
+
+B: Yes, I'm trying, I will try to manage my work life balance. Okay. And I will, as I told, I will prioritize my workload to maintain a sustainable balance.
+
+A: Fine. Superb. So with that, our HR team will get back to you on this. Okay? The feedback. Okay? So just hold on and wait for the right time. So, Ashish, with that, thank you, thank you for joining today's podcast. Have a great day.
+
+B: Thank you so much, sir. Yep.","**Technical Assessment:**
+Ashish demonstrated a solid understanding of the technical concepts related to the Data Analyst role for which he applied. His explanations of SQL, Excel, and Power BI were generally clear and accurate. He was able to explain the differences between inner join and outer join in SQL, the use of the row number function, and how to create a temporary table. His knowledge of Excel was also evident in his explanation of the CONCAT and TEXTJOIN functions, as well as how to create a dynamic named range. 
+
+In terms of Power BI, Ashish was able to explain how to schedule a data set refresh in Power BI service, the differences between Power BI Pro and Power BI Premium licenses, and the purpose of Power BI desktop. His understanding of DAX (Data Analysis Expressions) was also quite good, as he was able to explain its purpose and give examples of different DAX functions. 
+
+However, there were a few areas where Ashish's responses were less clear or accurate. For example, his explanation of how to protect a workbook in Excel was not entirely correct, and he admitted that he hadn't used this feature recently. His explanation of the difference between Power BI Pro and Power BI Premium was also somewhat vague and he admitted to not being entirely sure about it. 
+
+**Technical Strengths:**
+- SQL Knowledge: Ashish demonstrated a strong understanding of SQL, including how to use inner and outer joins, the row number function, and how to create a temporary table.
+- Power BI Proficiency: His understanding of Power BI was evident in his explanation of how to schedule a data set refresh, the differences between Power BI Pro and Power BI Premium, and the purpose of Power BI desktop.
+
+**Technical Weaknesses or Gaps:**
+- Excel Knowledge: While Ashish demonstrated a good understanding of several Excel functions, his explanation of how to protect a workbook was not entirely accurate.
+- Power BI Licensing: Ashish was somewhat unclear about the differences between Power BI Pro and Power BI Premium licenses, indicating a potential gap in his knowledge.
+
+**Tech Rating (out of 10):** 7/10
+**Recommendation:** Moderate Technical Candidate — Ashish has a solid understanding of many of the technical concepts related to the Data Analyst role, but there are a few areas where his knowledge could be improved. With some additional training, he could be a strong candidate for this role.","You are a senior technical interviewer.
+
+Evaluate the candidate's technical depth demonstrated in this interview transcript. Consider:
+- Clarity and depth of technical concepts explained
+- Problem-solving approach and accuracy
+- Practical knowledge and examples
+- Consistency in technical understanding
+
+Output Format:
+**Technical Assessment:**
+[3-4 detailed paragraphs with in-depth analysis of technical responses]
+
+**Technical Strengths:**
+- [Skill + example]
+- [Skill + example]
+
+**Technical Weaknesses or Gaps:**
+- [Area + reason]
+
+**Tech Rating (out of 10):** X/10
+**Recommendation:** [Strong / Moderate / Weak] Technical Candidate — [Optional comment]"
+2025-08-12T15:33:00.248152,Data Analyst Freshers Mock Interview Learn Data Analytics from Talentele dataanalytics.mp3,Technical Depth,"A: Here we go. Hey. Hi Ashish, how are you?
+
+B: I'm good sir. What about you?
+
+A: Yes, I'm also doing great, thank you for asking. Ashish. So as I can see your profile, you have applied for the position of data analyst as a fresher. Okay. So Ashish, can you please walk me through your profile once?
+
+B: Sure sir. First of all, thank you for giving me this opportunity. From Dehradun, I have completed my graduation Bachelors of Commerce. I have three years of work experience in social media marketing. Regarding my current skills, I am proficient in SQL, Power bi, Dax, Advanced Excel and I have created many projects using these tools on my own. Actually they are not guided projects. Also like recently I have worked on supply chain analysis. On that project I have solved a business problem and I created a beautiful dashboard on Power bi. Apart from this, currently I am learning Python for Autumn for automating tasks and I'm learning some libraries which are used for data analysis. This is, that's all about. Okay, okay.
+
+A: So Ashish, while you were working with this, all these data sets and all. Okay, so at that time what, you know, what challenges did you face using last data set? I mean how did you approach it and what was the outcome? You said that you were working on multiple projects, right?
+
+B: Yes.
+
+A: So what challenges did you face while using large data sets?
+
+B: Actually the most challenging part is only the clean part. Okay. When we have to deal with some null values, missing values, we have to remove some columns. So we have to think like very deeply which column is required for our analysis and which column are not. So the cleaning part is most challenging in my previous project, sir.
+
+A: Okay. Okay. So. So Ashish, tell me, I mean how did you prioritize your work when you were working with multiple projects and competing red lines? So can you, can you just give me a real time example? How did you do that?
+
+B: Yes sir, I prioritize my work, I prioritize my workload to maintain a sustainable balance. Like whatever I think it is most important. Okay. There, then I will do, I will complete that task first, then I will move to my next task. Okay. I will basically I will divide a big task into subsets of. Okay.
+
+A: Okay.
+
+B: Yes. So like I, whatever I have to do first I will complete that task, then I will move to my next task. That's how I can manage. Okay.
+
+A: Okay. Well, well Ashish, so as you were associated with multiple projects, so how did you, you know, analyze, ensure that the data you analyze is used ethically, especially when you're dealing with sensitive information.
+
+B: I can put some restriction to my Data okay. That the industry people can see whatever is going on with this data. Okay. And I will put some restrictions so the other person cannot see the data and whatever I'm doing with the data.
+
+A: So as tell me, how would you rate yourself on a scale of 10 when it comes to Excel?
+
+B: I would give seven.
+
+A: So, seven. Okay, so let's get started.
+
+B: Sure, sir.
+
+A: Okay, so Ashish, tell me the purpose of Excel data model and how you can enable it.
+
+B: Okay, sir, suppose I have a data, okay. In my Excel file I have multiple tables. What I can do, I can just create a pivot table and on the pivot table there's an option add this data to a data model. Okay? Then my data will be stored in power pivot. Okay? And in power period, I can do the data modeling. I can connect all the dimension table to the effect table and basically I will do, I can do anything, whatever I'm doing in power bi. Okay, I can connect all the tables and dimension table and fact table and that's how I can enable power pivot in Excel and I can do the modeling part in Excel with the help of power pivot.
+
+A: So as you were associated with multiple projects, Ashish, can you tell me, have you come across the, you know the term or the function called concat and text join in Excel? May I know what it's used?
+
+B: It is basically, you know, combine two or more strings in a cell. We, we can use concat to combine two string in one cell.
+
+A: Okay. Okay.
+
+B: And the text join is basically text join do the same work as concat. Okay. And text join we can put a separator. Okay. Like we have to combine with. We have to combine this text using a separator. So we can mention the separator it is comma or space. That's how we can use concat and text join. Also what we can do the. There is one more option. We can just write equal to our cell. Then we can refer to a cell. Then we have to put and, and, and, and sign. Then after, after end we can put another cell. Also we can join a space. If you join a space. So we can put some inverted comma. That's how we can basically concat is used to combine two or more string.
+
+A: Got you, got you. Okay, so tell me Ashish, how would you create a dynamic named range in Excel?
+
+B: Okay, first we have to select the cells. Okay, first we have to select the cells. Then we have to go to the data tab. In the data tab we can go in the name manager. Okay, so in, in the main name manager. There is a feature in Excel we have to go to the name manager and we can create a. You know, we have to create a name for the selected cells. Okay. And we can use that name range wherever we want in our calculation or chart. I mean visuals.
+
+A: Okay. Okay. Okay, fine. Ashish, I want help from your end. Okay. I need to know the purpose of Excel Ribbon and how can I customize it. So what will be the steps you are going to guide me?
+
+B: Okay, first you have. You can click on any tab. Okay, what's the purpose of Excel Ribbon? Ribbon. Sir, the purpose of Excel Ribbon is we can customize our ribbon. Okay, Ribbon is nothing. It is on the. You know what we are seeing on the top? Home tab, data tab, format tab or whatever we are seeing on the top that is a whole ribbon. Okay. And we can, how we can customize, we can just click on any tab, right click. Then at the bottom we can see the customize Ribbon in customized Ribbon we can, on the developer tab, we can, you know, create our own tab in which we are putting all the important features which are used, which we are using frequently. Like we can put clear format, this, print this, color.
+
+A: Okay, well, so tell me. I want to protect my workbook in Excel. So what methods am I going to use.
+
+B: The protection? Okay, sir, actually I have used protection but I haven't used recently. But I do remember that we can protect a range of cell. We can protect the worksheet, we can protect the workbook. We just have to go on the data tab, I think. Okay, okay, you think.
+
+A: I mean how much sure you are about it.
+
+B: Sir, I haven't used recently actually.
+
+A: Okay, okay, no, no worries. Okay Ashish, let's come to SQL again. So Ashish, tell me how to drop a table in SQL and what are the potential consequences for that?
+
+B: Okay sir, first of all, if we are using a drop command, it means the entire table will be gone. Okay. The customers, the. I mean the rows, the table structure, entire table or database. We can draw our database also so that table or database will be gone from our SQL. Okay, so we can just write drop table and then the table name this and we can use if exist. Also if exist will basically check if the table is exist in our database or not.
+
+A: Okay. Okay, so tell me what is the difference between an inner join and outer join in squeeze.
+
+B: Okay, so let me give you an example.
+
+A: Sure.
+
+B: Okay, suppose I have two tables customer and order. If I have. If I have to see if I am interested in only those customers who actually placed Order. Okay. I can achieve this using the inner join. So inner join will basically will fetch all the records from the left table and all the records from the right table matches record all the matching record from the left table and all the matching record from the right table, that is inner join.
+
+A: Okay?
+
+B: And the outer join will be fetch all the records from the left table and all the records from the right table whether the rows are matched or not. Okay?
+
+A: Okay, fine. So have you ever used row number function in SQL?
+
+B: Yes, sir. Row number is a window function. Okay. And we have to use row number function with over clause in over. We can put some arguments like partition by this column, order by this column and yes, that, that's about row number function.
+
+A: Okay, So I have been working in SQL and I mean can I get some purpose of why do we use truncate table statement.
+
+B: Or the purpose of.
+
+A: The truncate statement Table table statement?
+
+B: If you have to remove all the records from our table but not the structure the you want the structure you want. I mean, if you want to delete all the records from a table, you can go for the truncate statement. Truncate statement will delete all the records from the table, but not the structure. Okay? And we can achieve this also by using and delete command. Okay, but delete command will take more time, okay, because it will delete row by row, row by row. Basically, truncate will remove all the records from a table. Oh.
+
+A: So Ashish, my question is, I mean I want to create a temporary table in SQL. Okay, so how do I do that? And why do. I mean, what's the purpose of that? Why should I create a temporary table.
+
+B: In SQL you can create a temporary table and basically a temporary table stores the temporary data within a session or transaction. Okay? Okay, you can create a temporary table like create temporary table and after the temporary table you have to mention the temporary table name. Okay. Then you can write some below query whatever you want to store on that temporary table. And you can use the temporary table wherever you want in our queries, but within a session, once a session will end, that temporary table will be gone.
+
+A: Okay, so coming back to PowerBI. Okay, Ashish, tell me, how do you schedule a data set refresh in PowerBI service? Scheduling of a data set refresh? Yes.
+
+B: How do we schedule in Power BI.
+
+A: Service a data set refresh in Power BI service?
+
+B: What we can do, we can just go to the data set in power BI service, then we can select the scheduled refresh and by selecting the schedule refresh, we can Set we want to schedule our refresh daily, on weekly purpose. We can do this by going to the data set in Power BI service.
+
+A: So can you explain me the difference between a Power BI Pro and Power BI Premium licenses?
+
+B: Yes, sir.
+
+A: Yes, please.
+
+B: Actually, Power BI in Power BI Pro we can share our report, share our report to other users. Also we can publish our report to the web, then we can share the link and basically the difference is that in Power BI Pro, the individual license that allows sharing, collaboration and access to the Power bi. Okay, basically in Power BI Pro we can do everything. But the thing is that I think in Power BI Pro we cannot handle the large data set. For that we have to go for the Power BI Premium. Sir.
+
+A: Are you sure on that, Ashish?
+
+B: Sir, I'm not sure, but I, you know, I read some, I read about this and.
+
+A: Okay, fine, not an issue. Well, coming to the next question. I mean what is Power BI desktop optimized for?
+
+B: Optimized for.
+
+A: How does it differ from Power BI service?
+
+B: A Power BI desktop optimized for creating and designing report with full functionality on our local machine, sir. Okay, and talking about Power BI Service, cloud based platform for sharing, collaborating and accessing report online. It also supports scheduled refresh and dashboard creation.
+
+A: Ashish, my last question. What do you understand by the term tax?
+
+B: DEX stand for data analysis expression. And we can. Sir, there are so many decks available actually in Power bi like text. Text functions. DAX is a basically language. Okay, whatever we are doing in Excel then in Excel people are calling like formulas and functions. So we just have. We are using those functions and formulas in Power BI service. Okay, but the thing is that we cannot see the output at, you know, during writing the code. So we have to first create a dax. Then we have to use the text in. In any visual to check if it is correct or wrong. Okay, so DAX stands for data analysis expression. And there are many decks available like text functions, filter functions. In filter functions we have all, all accept filter. In text function we have the common one left, right, mid, upper, lower and time. There are some time intelligence date YTD date QTD quarter to date. Okay, and there are some more like logical if I think if's not there in Power BI service if is available in Microsoft Excel. But there is one function called switch. If we have multiple condition we can use switch function and switch. We just have to put first expression like we can put true and then we have to. If this is this, then give this. If this is this, then give this.
+
+A: Well, super. So with that Ashish I would like to know, where do you see yourself in the next five years?
+
+B: I will see in a senior position. Actually, my end goal is I, I want to get a job as a data scientist.
+
+A: Okay.
+
+B: So I will see my. Myself in a senior position in the next five years.
+
+A: Okay, fine. So why should I, I mean, why should the company hire you? I mean, what makes you stand out from others?
+
+B: So you should hire me because I'm very passionate about data analytics and I'm continuously learning all the things. Like I'm learning some new things even though I have learned all the, you know, all of the. Even though I have learned all the things about the tools which are the common one. But I'm enhancing my learning by learning something new. So that's why you can hire me, sir. I am a very disciplined person. I. Whatever. If you will give me some task and I think like I have to do this, then I will do where I will. It doesn't matter how much time it will take or how many challenges I have to face, I will complete your task. So that's why you can hire me, sir.
+
+A: So don't you think that, I mean, how much time it will take, as you said now, right now, so it will disturb your work life balance, you know?
+
+B: Yes, I'm trying, I will try to manage my work life balance. Okay. And I will, as I told, I will prioritize my workload to maintain a sustainable balance.
+
+A: Fine. Superb. So with that, our HR team will get back to you on this. Okay? The feedback. Okay? So just hold on and wait for the right time. So, Ashish, with that, thank you, thank you for joining today's podcast. Have a great day.
+
+B: Thank you so much, sir. Yep.","**Technical Assessment:**
+
+Ashish demonstrated a good understanding of the technical concepts related to the role of a data analyst. He was able to explain his skills and experience in SQL, Power BI, DAX, and Advanced Excel. His explanation of how he handled large datasets, prioritized tasks, and ensured ethical use of data showed his practical knowledge and experience. He was also able to provide a detailed explanation of how he created a dynamic named range in Excel, which shows his depth of understanding of Excel.
+
+However, there were some areas where Ashish's responses lacked depth and clarity. For instance, when asked about the difference between Power BI Pro and Power BI Premium licenses, he was not entirely sure about the differences. Also, when asked about protecting a workbook in Excel, he admitted to not having used this feature recently and was unsure about the steps involved. 
+
+His explanation of DAX (Data Analysis Expressions) was satisfactory, but he could have provided more depth by discussing more complex functions or providing more detailed examples. His responses to SQL-related questions were generally accurate and demonstrated a good understanding of SQL concepts, but again, more depth or examples would have been beneficial.
+
+**Technical Strengths:**
+- SQL: Ashish demonstrated a good understanding of SQL concepts, such as the use of the drop table statement, the difference between inner and outer joins, and the use of the row number function.
+- Power BI and DAX: Ashish showed proficiency in using Power BI and DAX for data analysis and visualization, as demonstrated by his explanation of how to schedule a data set refresh in Power BI service and his understanding of DAX.
+
+**Technical Weaknesses or Gaps:**
+- Excel: While Ashish showed proficiency in Excel, he was unsure about how to protect a workbook, which is a fundamental feature of Excel.
+- Power BI Licensing: Ashish was not entirely sure about the differences between Power BI Pro and Power BI Premium licenses, which could be important in a data analyst role.
+
+**Tech Rating (out of 10):** 7/10
+
+**Recommendation:** Moderate Technical Candidate — Ashish has a good foundation in SQL, Power BI, and DAX, which are important for a data analyst role. However, he could benefit from further developing his knowledge and skills in Excel and Power BI licensing. His willingness to learn and improve is a positive trait. With additional training and experience, he could become a strong candidate for a data analyst role.","You are a senior technical interviewer.
+
+Evaluate the candidate's technical depth demonstrated in this interview transcript. Consider:
+- Clarity and depth of technical concepts explained
+- Problem-solving approach and accuracy
+- Practical knowledge and examples
+- Consistency in technical understanding
+
+Output Format:
+**Technical Assessment:**
+[3-4 detailed paragraphs with in-depth analysis of technical responses]
+
+**Technical Strengths:**
+- [Skill + example]
+- [Skill + example]
+
+**Technical Weaknesses or Gaps:**
+- [Area + reason]
+
+**Tech Rating (out of 10):** X/10
+**Recommendation:** [Strong / Moderate / Weak] Technical Candidate — [Optional comment]"
